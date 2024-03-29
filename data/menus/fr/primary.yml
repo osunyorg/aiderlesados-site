@@ -25,4 +25,8 @@ items:
     target: "/autour-du-sujet/les-ados-aidants/"
     kind: page
     children: []
+  - title: Le projet
+    target: "/autour-du-sujet/le-projet/"
+    kind: page
+    children: []
 
