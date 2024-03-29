@@ -17,6 +17,10 @@ items:
     target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
+  - title: Les organisations de Bretagne
+    target: "/organisations/les-organisations-de-bretagne/"
+    kind: page
+    children: []
   - title: Les organisations de Bourgogne-Franche-Comté
     target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
@@ -37,8 +41,4 @@ items:
     target: "/autour-du-sujet/le-projet/"
     kind: page
     children: []
-- title: Les organisations de Bretagne
-  target: "/les-organisations-de-bretagne/"
-  kind: page
-  children: []
 
