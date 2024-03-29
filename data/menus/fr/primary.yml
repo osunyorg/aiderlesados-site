@@ -17,4 +17,16 @@ items:
   target: "/demarches-administratives/"
   kind: page
   children: []
+- title: Les voix des aidants
+  target: "/les-voix-des-aidants/"
+  kind: page
+  children:
+  - title: Dionisa
+    target: "/les-voix-des-aidants/dionisa/"
+    kind: page
+    children: []
+  - title: Sherda
+    target: "/les-voix-des-aidants/sherda/"
+    kind: page
+    children: []
 
