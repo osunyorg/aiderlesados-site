@@ -25,6 +25,10 @@ items:
     target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
+  - title: Les organisations de Corse
+    target: "/organisations/les-organisations-de-corse/"
+    kind: page
+    children: []
 - title: Démarches administratives
   target: "/demarches-administratives/"
   kind: page
@@ -43,10 +47,6 @@ items:
     children: []
 - title: Les organisations du Centre-Val de Loire
   target: "/les-organisations-du-centre-val-de-loire/"
-  kind: page
-  children: []
-- title: Les organisations de Corse
-  target: "/les-organisations-de-corse/"
   kind: page
   children: []
 
