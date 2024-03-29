@@ -25,6 +25,10 @@ items:
     target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
+  - title: Les organisations présentes dans toute la France
+    target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
+    kind: page
+    children: []
   - title: Les organisations de Corse
     target: "/organisations/les-organisations-de-corse/"
     kind: page
@@ -47,10 +51,6 @@ items:
     children: []
 - title: Les organisations du Centre-Val de Loire
   target: "/les-organisations-du-centre-val-de-loire/"
-  kind: page
-  children: []
-- title: Les organisations présentes dans toute la France
-  target: "/les-organisations-presentes-dans-toute-la-france/"
   kind: page
   children: []
 
