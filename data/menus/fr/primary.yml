@@ -53,4 +53,8 @@ items:
   target: "/les-organisations-du-centre-val-de-loire/"
   kind: page
   children: []
+- title: Les organisations des Départements et Régions d’Outre-Mer
+  target: "/les-organisations-des-departements-et-regions-doutre-mer/"
+  kind: page
+  children: []
 
