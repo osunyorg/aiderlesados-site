@@ -29,6 +29,10 @@ items:
     target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
+  - title: Les organisations des Départements et Régions d’Outre-Mer
+    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
+    kind: page
+    children: []
   - title: Les organisations de Corse
     target: "/organisations/les-organisations-de-corse/"
     kind: page
@@ -51,10 +55,6 @@ items:
     children: []
 - title: Les organisations du Centre-Val de Loire
   target: "/les-organisations-du-centre-val-de-loire/"
-  kind: page
-  children: []
-- title: Les organisations des Départements et Régions d’Outre-Mer
-  target: "/les-organisations-des-departements-et-regions-doutre-mer/"
   kind: page
   children: []
 
