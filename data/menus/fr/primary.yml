@@ -45,4 +45,8 @@ items:
   target: "/les-organisations-du-centre-val-de-loire/"
   kind: page
   children: []
+- title: Les organisations de Corse
+  target: "/les-organisations-de-corse/"
+  kind: page
+  children: []
 
