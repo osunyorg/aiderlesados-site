@@ -20,5 +20,9 @@ items:
 - title: Autour du sujet
   target: "/autour-du-sujet/"
   kind: page
-  children: []
+  children:
+  - title: Les ados aidants
+    target: "/autour-du-sujet/les-ados-aidants/"
+    kind: page
+    children: []
 
