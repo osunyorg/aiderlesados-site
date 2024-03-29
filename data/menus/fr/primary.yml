@@ -81,6 +81,10 @@ items:
     target: "/demarches-administratives/demande-de-cartetitre-de-sejour/"
     kind: page
     children: []
+  - title: Déclaration de revenus et paiement des impôts
+    target: "/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
+    kind: page
+    children: []
 - title: Autour du sujet
   target: "/autour-du-sujet/"
   kind: page
