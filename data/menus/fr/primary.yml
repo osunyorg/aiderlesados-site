@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Démarches administratives
+  target: "/demarches-administratives/"
+  kind: page
+  children: []
 
