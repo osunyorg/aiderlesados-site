@@ -17,4 +17,8 @@ items:
   target: "/demarches-administratives/"
   kind: page
   children: []
+- title: Autour du sujet
+  target: "/autour-du-sujet/"
+  kind: page
+  children: []
 
