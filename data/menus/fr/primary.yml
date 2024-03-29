@@ -13,6 +13,10 @@ items:
   target: "/organisations/"
   kind: page
   children:
+  - title: Les organisations de Bretagne
+    target: "/organisations/les-organisations-de-bretagne/"
+    kind: page
+    children: []
   - title: Les organisations d'Auvergne-Rhône-Alpes
     target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
@@ -21,16 +25,8 @@ items:
     target: "/organisations/les-organisations-du-centre-val-de-loire/"
     kind: page
     children: []
-  - title: Les organisations de Bretagne
-    target: "/organisations/les-organisations-de-bretagne/"
-    kind: page
-    children: []
   - title: Les organisations des Départements et Régions d’Outre-Mer
     target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
-    kind: page
-    children: []
-  - title: Les organisations de Corse
-    target: "/organisations/les-organisations-de-corse/"
     kind: page
     children: []
   - title: Les organisations de Bourgogne-Franche-Comté
@@ -41,8 +37,16 @@ items:
     target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
+  - title: Les organisations de Corse
+    target: "/organisations/les-organisations-de-corse/"
+    kind: page
+    children: []
   - title: Les organisations de la région Grand Est
     target: "/organisations/les-organisations-de-la-region-grand-est/"
+    kind: page
+    children: []
+  - title: Les organisations des Hauts-de-France
+    target: "/organisations/les-organisations-des-hauts-de-france/"
     kind: page
     children: []
 - title: Démarches administratives
