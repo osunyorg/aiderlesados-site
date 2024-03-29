@@ -9,6 +9,7 @@ fr:
   params:
     social:
   permalinks:
+    organizations: /organisations/:slug/
   taxonomies:
     administrator: administrators
     author: authors
