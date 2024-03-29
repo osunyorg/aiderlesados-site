@@ -41,4 +41,8 @@ items:
     target: "/autour-du-sujet/le-projet/"
     kind: page
     children: []
+- title: Les organisations du Centre-Val de Loire
+  target: "/les-organisations-du-centre-val-de-loire/"
+  kind: page
+  children: []
 
