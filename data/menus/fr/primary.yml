@@ -29,20 +29,20 @@ items:
     target: "/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
-  - title: Les organisations de Corse
-    target: "/organisations/les-organisations-de-corse/"
+  - title: Les organisations de Bourgogne-Franche-Comté
+    target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
   - title: Les organisations des Départements et Régions d’Outre-Mer
     target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
-  - title: Les organisations de Bourgogne-Franche-Comté
-    target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
-    kind: page
-    children: []
   - title: Les organisations présentes dans toute la France
     target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Corse
+    target: "/organisations/les-organisations-de-corse/"
     kind: page
     children: []
   - title: Les organisations de la région Grand Est
@@ -55,6 +55,10 @@ items:
     children: []
   - title: Les organisations de Normandie
     target: "/organisations/les-organisations-de-normandie/"
+    kind: page
+    children: []
+  - title: Les organisations de Nouvelle-Aquitaine
+    target: "/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     children: []
 - title: Démarches administratives
