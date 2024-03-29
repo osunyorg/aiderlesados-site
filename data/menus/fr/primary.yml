@@ -65,4 +65,8 @@ items:
     target: "/autour-du-sujet/le-projet/"
     kind: page
     children: []
+- title: Les organisations d'Île-de-France
+  target: "/les-organisations-dile-de-france/"
+  kind: page
+  children: []
 
