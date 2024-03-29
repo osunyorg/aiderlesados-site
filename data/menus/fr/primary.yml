@@ -12,7 +12,11 @@ items:
 - title: Organisations
   target: "/organisations/"
   kind: page
-  children: []
+  children:
+  - title: Les organisations d'Auvergne-Rhône-Alpes
+    target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
+    kind: page
+    children: []
 - title: Démarches administratives
   target: "/demarches-administratives/"
   kind: page
@@ -29,8 +33,4 @@ items:
     target: "/autour-du-sujet/le-projet/"
     kind: page
     children: []
-- title: Les organisations d'Auvergne-Rhône-Alpes
-  target: "/les-organisations-dauvergne-rhone-alpes/"
-  kind: page
-  children: []
 
