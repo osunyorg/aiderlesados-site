@@ -29,12 +29,12 @@ items:
     target: "/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
-  - title: Les organisations des Départements et Régions d’Outre-Mer
-    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
-    kind: page
-    children: []
   - title: Les organisations de Corse
     target: "/organisations/les-organisations-de-corse/"
+    kind: page
+    children: []
+  - title: Les organisations des Départements et Régions d’Outre-Mer
+    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
   - title: Les organisations de Bourgogne-Franche-Comté
@@ -51,6 +51,10 @@ items:
     children: []
   - title: Les organisations des Hauts-de-France
     target: "/organisations/les-organisations-des-hauts-de-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Normandie
+    target: "/organisations/les-organisations-de-normandie/"
     kind: page
     children: []
 - title: Démarches administratives
