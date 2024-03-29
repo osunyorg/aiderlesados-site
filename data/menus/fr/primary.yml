@@ -29,4 +29,8 @@ items:
     target: "/autour-du-sujet/le-projet/"
     kind: page
     children: []
+- title: Les organisations d'Auvergne-Rhône-Alpes
+  target: "/les-organisations-dauvergne-rhone-alpes/"
+  kind: page
+  children: []
 
