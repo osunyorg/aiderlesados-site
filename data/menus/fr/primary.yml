@@ -76,7 +76,11 @@ items:
 - title: Démarches administratives
   target: "/demarches-administratives/"
   kind: page
-  children: []
+  children:
+  - title: Demande de carte/titre de séjour
+    target: "/demarches-administratives/demande-de-cartetitre-de-sejour/"
+    kind: page
+    children: []
 - title: Autour du sujet
   target: "/autour-du-sujet/"
   kind: page
