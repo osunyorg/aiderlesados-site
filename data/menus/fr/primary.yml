@@ -13,8 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children:
-  - title: Les organisations d'Auvergne-Rhône-Alpes
-    target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
+  - title: Les organisations d'Île-de-France
+    target: "/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
   - title: Les organisations du Centre-Val de Loire
@@ -25,24 +25,24 @@ items:
     target: "/organisations/les-organisations-de-bretagne/"
     kind: page
     children: []
-  - title: Les organisations d'Île-de-France
-    target: "/organisations/les-organisations-dile-de-france/"
+  - title: Les organisations d'Auvergne-Rhône-Alpes
+    target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
+    kind: page
+    children: []
+  - title: Les organisations de Corse
+    target: "/organisations/les-organisations-de-corse/"
     kind: page
     children: []
   - title: Les organisations de Bourgogne-Franche-Comté
     target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
-  - title: Les organisations des Départements et Régions d’Outre-Mer
-    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
-    kind: page
-    children: []
   - title: Les organisations présentes dans toute la France
     target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
-  - title: Les organisations de Corse
-    target: "/organisations/les-organisations-de-corse/"
+  - title: Les organisations des Départements et Régions d’Outre-Mer
+    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
   - title: Les organisations de la région Grand Est
@@ -63,6 +63,10 @@ items:
     children: []
   - title: Les organisations d'Occitanie
     target: "/organisations/les-organisations-doccitanie/"
+    kind: page
+    children: []
+  - title: Les organisations du Pays de la Loire
+    target: "/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     children: []
 - title: Démarches administratives
