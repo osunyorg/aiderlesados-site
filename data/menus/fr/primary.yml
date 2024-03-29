@@ -17,6 +17,10 @@ items:
     target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
+  - title: Les organisations de Bourgogne-Franche-Comté
+    target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
+    kind: page
+    children: []
 - title: Démarches administratives
   target: "/demarches-administratives/"
   kind: page
