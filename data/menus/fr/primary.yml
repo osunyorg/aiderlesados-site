@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Témoignages
-  target: "/actualites/"
+  target: "/temoignages/"
   kind: page
   children: []
 - title: Équipe
