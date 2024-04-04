@@ -85,6 +85,14 @@ items:
     target: "/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
     kind: page
     children: []
+  - title: Demande de visa longue durée
+    target: "/demarches-administratives/demande-de-visa-longue-duree/"
+    kind: page
+    children: []
+  - title: Carte de séjour « vie privée et familiale »
+    target: "/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/"
+    kind: page
+    children: []
 - title: Autour du sujet
   target: "/autour-du-sujet/"
   kind: page
