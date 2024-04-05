@@ -2,103 +2,103 @@
 title: Menu principal
 items:
 - title: Témoignages
-  target: "/temoignages/"
+  target: "/fr/temoignages/"
   kind: page
   children: []
 - title: Organisations
-  target: "/organisations/"
+  target: "/fr/organisations/"
   kind: page
   children:
   - title: Les organisations d'Auvergne-Rhône-Alpes
-    target: "/organisations/les-organisations-dauvergne-rhone-alpes/"
+    target: "/fr/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
   - title: Les organisations du Centre-Val de Loire
-    target: "/organisations/les-organisations-du-centre-val-de-loire/"
+    target: "/fr/organisations/les-organisations-du-centre-val-de-loire/"
     kind: page
     children: []
   - title: Les organisations de Bretagne
-    target: "/organisations/les-organisations-de-bretagne/"
+    target: "/fr/organisations/les-organisations-de-bretagne/"
     kind: page
     children: []
   - title: Les organisations d'Île-de-France
-    target: "/organisations/les-organisations-dile-de-france/"
+    target: "/fr/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
   - title: Les organisations de Bourgogne-Franche-Comté
-    target: "/organisations/les-organisations-de-bourgogne-franche-comte/"
+    target: "/fr/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
   - title: Les organisations des Départements et Régions d’Outre-Mer
-    target: "/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
+    target: "/fr/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
   - title: Les organisations de Corse
-    target: "/organisations/les-organisations-de-corse/"
+    target: "/fr/organisations/les-organisations-de-corse/"
     kind: page
     children: []
   - title: Les organisations présentes dans toute la France
-    target: "/organisations/les-organisations-presentes-dans-toute-la-france/"
+    target: "/fr/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
   - title: Les organisations du Grand Est
-    target: "/organisations/les-organisations-de-la-region-grand-est/"
+    target: "/fr/organisations/les-organisations-de-la-region-grand-est/"
     kind: page
     children: []
   - title: Les organisations des Hauts-de-France
-    target: "/organisations/les-organisations-des-hauts-de-france/"
+    target: "/fr/organisations/les-organisations-des-hauts-de-france/"
     kind: page
     children: []
   - title: Les organisations de Normandie
-    target: "/organisations/les-organisations-de-normandie/"
+    target: "/fr/organisations/les-organisations-de-normandie/"
     kind: page
     children: []
   - title: Les organisations de Nouvelle-Aquitaine
-    target: "/organisations/les-organisations-de-nouvelle-aquitaine/"
+    target: "/fr/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     children: []
   - title: Les organisations d'Occitanie
-    target: "/organisations/les-organisations-doccitanie/"
+    target: "/fr/organisations/les-organisations-doccitanie/"
     kind: page
     children: []
   - title: Les organisations du Pays de la Loire
-    target: "/organisations/les-organisations-du-pays-de-la-loire/"
+    target: "/fr/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     children: []
   - title: Les organisations de Provence-Alpes-Côte d’Azur
-    target: "/organisations/les-organisations-de-provence-alpes-cote-dazur/"
+    target: "/fr/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
 - title: Démarches administratives
-  target: "/demarches-administratives/"
+  target: "/fr/demarches-administratives/"
   kind: page
   children:
   - title: Demande de carte/titre de séjour
-    target: "/demarches-administratives/demande-de-cartetitre-de-sejour/"
+    target: "/fr/demarches-administratives/demande-de-cartetitre-de-sejour/"
     kind: page
     children: []
   - title: Déclaration de revenus et paiement des impôts
-    target: "/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
+    target: "/fr/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
     kind: page
     children: []
   - title: Demande de visa longue durée
-    target: "/demarches-administratives/demande-de-visa-longue-duree/"
+    target: "/fr/demarches-administratives/demande-de-visa-longue-duree/"
     kind: page
     children: []
   - title: Carte de séjour « vie privée et familiale »
-    target: "/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/"
+    target: "/fr/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/"
     kind: page
     children: []
 - title: Autour du sujet
-  target: "/autour-du-sujet/"
+  target: "/fr/autour-du-sujet/"
   kind: page
   children:
   - title: Les ados aidants
-    target: "/autour-du-sujet/les-ados-aidants/"
+    target: "/fr/autour-du-sujet/les-ados-aidants/"
     kind: page
     children: []
   - title: Le projet
-    target: "/autour-du-sujet/le-projet/"
+    target: "/fr/autour-du-sujet/le-projet/"
     kind: page
     children: []
 
