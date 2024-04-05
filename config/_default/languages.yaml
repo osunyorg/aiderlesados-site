@@ -12,6 +12,7 @@ fr:
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
     organizations: /organisations/:slug/
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
