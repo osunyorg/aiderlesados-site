@@ -72,3 +72,27 @@ fr:
     researcher: researchers
     teacher: teachers
     volume: volumes
+ht:
+  title: >-
+    Casser la démarche
+  contentDir: content/ht
+  languageCode: ht
+  languageName: Kreyòl ayisyen
+  params:
+    social:
+  permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
+    organizations: /organisations/:slug/
+    persons: /equipe/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    diploma: diplomas
+    events_category: events_categories
+    location: locations
+    posts_category: posts_categories
+    projects_category: projects_categories
+    researcher: researchers
+    teacher: teachers
+    volume: volumes
