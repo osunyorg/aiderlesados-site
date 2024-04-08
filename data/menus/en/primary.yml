@@ -2,7 +2,7 @@
 title: Main menu
 items:
 - title: Testimonials
-  target: "/en/posts/"
+  target: "/en/testimonials/"
   kind: page
   children: []
 - title: Organizations
