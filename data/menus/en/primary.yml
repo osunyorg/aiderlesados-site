@@ -9,10 +9,6 @@ items:
   target: "/en/organizations/"
   kind: page
   children: []
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 - title: Administrative procedure
   target: "/en/administrative-procedure/"
   kind: page
@@ -21,4 +17,8 @@ items:
     target: "/en/administrative-procedure/annual-income-tax-return/"
     kind: page
     children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
 
