@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/es/actualites/"
+- title: Testimonios
+  target: "/es/testimonios/"
   kind: page
   children: []
 - title: Organisations
