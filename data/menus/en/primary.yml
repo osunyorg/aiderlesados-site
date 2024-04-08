@@ -17,4 +17,12 @@ items:
   target: "/en/team/"
   kind: page
   children: []
+- title: Administrative procedure
+  target: "/en/administrative-procedure/"
+  kind: page
+  children:
+  - title: Annual Income Tax Return
+    target: "/en/administrative-procedure/annual-income-tax-return/"
+    kind: page
+    children: []
 
