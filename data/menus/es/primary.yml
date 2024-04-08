@@ -13,4 +13,13 @@ items:
   target: "/es/equipe/"
   kind: page
   children: []
+- title: Trámites administrativos
+  target: "/es/tramites-administrativos/"
+  kind: page
+  children:
+  - title: Solicitud de autorización de residencia (para refugiados, apátridas o beneficiarios
+      de protección subsidiaria)
+    target: "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
+    kind: page
+    children: []
 
