@@ -5,3 +5,92 @@
             text-align: right
             @include media-breakpoint-up(xxl)
                 margin-top: space(10)
+    .block-chapter--alt_background
+        background: none
+        padding-bottom: 0 !important
+        .chapter
+            .text
+                order: 1 !important
+            .rich-text
+                a
+                    @extend .button
+                    background: $color-accent
+                    color: white
+    .block-chapter
+        &:not(.block-chapter--alt_background)
+            margin-top: var(--grid-gutter)
+        .chapter
+            .text,
+            figure
+                width: columns(6) !important
+                img
+                    margin-left: unset !important
+
+// headings
+.heading
+    margin: 0
+    padding: 0
+    width: unset
+    max-width: unset
+    h2
+        @include container
+        width: var(--grid-width) !important
+        p
+            position: relative
+            svg
+                position: absolute
+                right: 0
+                bottom: -50%
+        @include media-breakpoint-up(desktop)
+            align-items: center
+            display: flex
+            &::before
+                content: ''
+                background: $color-accent
+                width: calc(#{columns(3)} + var(--grid-gutter))
+                height: 8px
+                border-bottom-right-radius: 8px
+                border-top-right-radius: 8px
+                margin-left: var(--grid-gutter-negative)
+                margin-right: var(--grid-gutter)
+                @media only screen and (min-width: 2000px)
+                    border-bottom-left-radius: 8px
+                    border-top-left-radius: 8px
+
+.block-call_to_action
+    .call_to_action
+        position: relative
+        .description
+            p 
+                font-size: pxToRem(24)
+                font-family: $body-font-family
+        @include media-breakpoint-up(desktop)
+            picture
+                position: absolute
+                bottom: -$spacing-6
+                right: 0
+
+// Des cibles cracra pour le style
+.page__home
+    #les-temoignages 
+        h2::before
+            background-color: $site-purple
+        svg path
+            stroke: $site-purple
+    #besoin-daide 
+        h2::before
+            background-color: $site-green
+        svg path
+            stroke: $site-green
+    #le-petit-guide-des-demarches
+        background-color: $site-blue
+        h2
+            padding-top: $spacing-4
+            color: white
+            svg path
+                stroke: white
+            @include media-breakpoint-up(desktop)
+                &::before
+                    background: white
+        + .block-call_to_action
+            margin-top: 0
