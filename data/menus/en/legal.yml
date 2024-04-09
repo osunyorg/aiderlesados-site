@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Sitemap
+  target: "/en/sitemap/"
+  kind: page
+  children: []
 
