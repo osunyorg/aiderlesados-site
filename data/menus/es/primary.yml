@@ -26,4 +26,8 @@ items:
     target: "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
     kind: page
     children: []
+  - title: Solicitud de visado de larga duración
+    target: "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
+    kind: page
+    children: []
 
