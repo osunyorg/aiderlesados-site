@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Organisations
-  target: "/fr/equipe/equipe-editoriale/"
+  target: "/fr/organisations/"
   kind: page
   children:
   - title: Les organisations d'Auvergne-Rhône-Alpes
