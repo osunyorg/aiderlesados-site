@@ -30,4 +30,8 @@ items:
     target: "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
     kind: page
     children: []
+  - title: Tarjeta de residencia de 'vida privada y familiar'
+    target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
+    kind: page
+    children: []
 
