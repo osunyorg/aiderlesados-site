@@ -8,6 +8,7 @@
     .block-chapter--alt_background
         background: none
         padding-bottom: 0 !important
+        margin-top: 0 !important
         .chapter
             .text
                 order: 1 !important
@@ -19,12 +20,44 @@
     .block-chapter
         &:not(.block-chapter--alt_background)
             margin-top: var(--grid-gutter)
-        .chapter
-            .text,
-            figure
-                width: columns(6) !important
-                img
-                    margin-left: unset !important
+        @include media-breakpoint-up(desktop)
+            .chapter
+                .text,
+                figure
+                    width: columns(6) !important
+                    img
+                        margin-left: unset !important
+    .block-posts--carousel
+        .block-title 
+            position: relative
+            &::after
+                aspect-ratio: 1.2987
+                background:
+                    image: url(/assets/images/confetti.svg)
+                    size: cover
+                content: ''
+                display: block
+                position: absolute
+                right: 0
+                bottom: -$spacing-4
+                width: pxToRem(70)
+            a::after
+                display: none
+        @include media-breakpoint-down(desktop)
+            .block-content
+                display: flex
+                flex-direction: column-reverse
+            .block-title
+                text-align: center
+                a
+                    display: block
+                    width: 18ch
+                    position: relative
+                &::after
+                    width: pxToRem(36)
+                    transform: rotate(-81.38deg)
+                    top: -$spacing-1
+                    right: $spacing-1
 
 // headings
 .heading
@@ -41,6 +74,10 @@
                 position: absolute
                 right: 0
                 bottom: -50%
+                @include media-breakpoint-down(desktop)
+                    right: unset
+                    left: 0
+                    width: 50%
         @include media-breakpoint-up(desktop)
             align-items: center
             display: flex
@@ -56,7 +93,8 @@
                 @media only screen and (min-width: 2000px)
                     border-bottom-left-radius: 8px
                     border-top-left-radius: 8px
-
+    + .block
+        margin-top: $spacing-5
 .block-call_to_action
     .call_to_action
         position: relative
