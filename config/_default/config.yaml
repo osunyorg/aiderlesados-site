@@ -9,3 +9,6 @@ params:
     active: false  
   logo:
     footer: "/assets/images/logo-footer.svg"
+  posts:
+    index:
+      layout: grid
