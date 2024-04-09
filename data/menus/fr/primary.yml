@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
   - title: Les organisations présentes dans toute la France
-    target: "/fr/organisations/les-organizations-presentes-dans-toute-la-france/"
+    target: "/fr/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
   - title: Les organisations du Grand Est
