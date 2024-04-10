@@ -61,26 +61,31 @@
 
 // headings
 .heading
-    margin: 0
-    padding: 0
-    width: unset
-    max-width: unset
-    h2
-        @include container
-        width: var(--grid-width) !important
-        p
-            position: relative
-            svg
-                position: absolute
-                right: 0
-                bottom: -50%
-                @include media-breakpoint-down(desktop)
-                    right: unset
-                    left: 0
-                    width: 50%
-        @include media-breakpoint-up(desktop)
+    @include in-page-with-sidebar
+    svg
+        display: none
+    @include in-page-without-sidebar
+        margin-right: 0
+        margin-left: 0
+        max-width: unset
+        padding: 0
+        width: unset
+        h2
+            @include container
             align-items: center
             display: flex
+            width: var(--grid-width) !important
+            p
+                position: relative
+                width: fit-content
+                svg
+                    position: absolute
+                    right: 0
+                    bottom: -50%
+                    @include media-breakpoint-down(desktop)
+                        right: unset
+                        left: 0
+                        width: 50%
             &::before
                 content: ''
                 background: $color-accent
@@ -95,6 +100,7 @@
                     border-top-left-radius: 8px
     + .block
         margin-top: $spacing-5
+
 .block-call_to_action
     .call_to_action
         position: relative
@@ -110,25 +116,27 @@
 
 // Des cibles cracra pour le style
 .page__home
-    #les-temoignages 
-        h2::before
-            background-color: $site-purple
-        svg path
-            stroke: $site-purple
-    #besoin-daide 
-        h2::before
-            background-color: $site-green
-        svg path
-            stroke: $site-green
+    &.full-width
+        #les-temoignages 
+            h2::before
+                background-color: $site-purple
+            svg path
+                stroke: $site-purple
+        #besoin-daide 
+            h2::before
+                background-color: $site-green
+            svg path
+                stroke: $site-green
+        #le-petit-guide-des-demarches
+            h2::before
+                background: white
+            svg path
+                stroke: white
     #le-petit-guide-des-demarches
         background-color: $site-blue
+        margin-bottom: 0
         h2
             padding-top: $spacing-4
             color: white
-            svg path
-                stroke: white
-            @include media-breakpoint-up(desktop)
-                &::before
-                    background: white
         + .block-call_to_action
             margin-top: 0
