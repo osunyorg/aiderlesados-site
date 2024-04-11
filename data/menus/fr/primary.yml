@@ -25,7 +25,7 @@ items:
     target: "/fr/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
-  - title: Les organisations de Bourgogne-Franche-Comté
+  - title: Bourgogne-Franche-Comté
     target: "/fr/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
