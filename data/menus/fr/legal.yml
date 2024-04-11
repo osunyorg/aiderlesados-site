@@ -17,4 +17,8 @@ items:
   target: "/fr/plan-du-site/"
   kind: page
   children: []
+- title: CGU
+  target: "/fr/cgu/"
+  kind: page
+  children: []
 
