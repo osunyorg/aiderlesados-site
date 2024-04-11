@@ -17,6 +17,10 @@ items:
     target: "/ht/organisations/les-organisations-de-bretagne/"
     kind: page
     children: []
+  - title: Les organisations de Bourgogne-Franche-Comté
+    target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
