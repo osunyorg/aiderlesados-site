@@ -41,6 +41,10 @@ items:
     target: "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
+  - title: Les organisations du Grand Est
+    target: "/ht/organisations/les-organisations-de-la-region-grand-est/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
