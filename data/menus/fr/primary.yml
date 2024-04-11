@@ -9,7 +9,7 @@ items:
   target: "/fr/organisations/"
   kind: page
   children:
-  - title: Les organisations d'Auvergne-Rhône-Alpes
+  - title: Auvergne-Rhône-Alpes
     target: "/fr/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
