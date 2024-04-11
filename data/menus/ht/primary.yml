@@ -76,5 +76,17 @@ items:
 - title: Pwosedi administratif yo
   target: "/ht/pwosedi-administratif/"
   kind: page
-  children: []
+  children:
+  - title: Deklarasyon revni ak peman taks
+    target: "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
+    kind: page
+    children: []
+  - title: Demand pou viza alontèm
+    target: "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
+    kind: page
+    children: []
+  - title: Pèmi rezidans "lavi prive ak fanmi" (Carte de séjour « vie privée et familiale »)
+    target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
+    kind: page
+    children: []
 
