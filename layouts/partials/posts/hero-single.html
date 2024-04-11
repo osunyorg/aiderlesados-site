@@ -1,0 +1,93 @@
+
+{{ $direction := "" }}
+{{ $breadcrumb_is_after_hero := eq site.Params.breadcrumb.position "after-hero" }}
+{{ $display_breadcrumb := .Params.breadcrumb | default true }}
+{{ $subtitle := .Params.subtitle }}
+{{ $description := .Params.description }}
+{{ if .Params.image }}
+  {{ $direction = partial "GetImageDirection" .Params.image }}
+{{ end }}
+
+{{ $summary := .Params.summary | safeHTML }}
+{{ $subtitle_is_summary := false }}
+
+{{ $button := .Params.button | default .Params.header_cta }}
+
+{{ if not $subtitle }}
+  {{ if and (eq site.Params.summary.position "hero") $summary }}
+    {{ $subtitle = $summary }}
+    {{ $subtitle_is_summary = true }}
+  {{ end }}
+{{ end }}
+
+{{- $title := or .Params.header_text .Title -}}
+
+<header class="hero {{ if .Params.image }}hero--with-image hero--image-{{- $direction }}{{ end }} {{ if $breadcrumb_is_after_hero }} hero--no-margin {{ end }}">
+  <div class="container">
+    {{ if and $display_breadcrumb (eq site.Params.breadcrumb.position "hero-start") }}
+      {{ partial "header/breadcrumbs.html" . }}
+    {{ end }}
+    <div class="content">
+      <div class="hero-text">
+        {{ if or $subtitle }}
+          <hgroup>
+            <h1>{{ partial "PrepareHTML" $title }}</h1>
+            {{ if $subtitle }}
+              <p {{ if $subtitle_is_summary }} class="lead" {{ end }}>{{ partial "PrepareHTML" $subtitle }}</p>
+            {{ end }}
+          </hgroup>
+        {{ else }}
+          <h1>{{ partial "PrepareHTML" .title }}</h1>
+        {{ end }}
+      </div>
+    </div>
+    <div class="content">
+      {{ if .Params.image }}
+        <figure>
+          {{ partial "commons/image.html"
+            (dict
+              "image"    .Params.image
+              "sizes"    site.Params.image_sizes.sections.posts.hero_single
+              "lazy"     false
+            ) }}
+          {{ if not site.Params.image_sizes.design_system.lightbox.disabled }}
+            <a  class="glightbox"
+                role="button"
+                data-glightbox="type: image;{{ with .Params.image.credit }}description: {{ partial "PrepareHTML" . }}{{ end }}"
+                href="{{ partial "GetLightboxUrl" .Params.image }}"
+                title="{{- i18n "commons.lightbox.link.title" -}}"
+                aria-label="{{- i18n "commons.lightbox.link.title" -}}">
+            </a>
+          {{ end }}
+          {{ with partial "GetTextFromHTML" .Params.image.credit }}
+            <figcaption tabindex="0">
+              <div class="credit-content">
+                {{ partial "PrepareHTML" . }}
+              </div>
+            </figcaption>
+          {{ end }}
+        </figure>
+      {{ end }}
+
+      {{ if $description }}
+        <p>{{ partial "PrepareHTML" .description }}</p>
+      {{ end }}
+    </div>
+  </div>
+
+  {{ if .Params.hero_complement }}
+    {{ partial .Params.hero_complement . }}
+  {{ end }}
+
+  {{ if and $display_breadcrumb (eq site.Params.breadcrumb.position "hero-end") }}
+    <div class="container breadcrumb-container">
+      {{ partial "header/breadcrumbs.html" . }}
+    </div>
+  {{ end }}
+</header>
+
+{{ if and $display_breadcrumb $breadcrumb_is_after_hero }}
+  <div class="container breadcrumb-container">
+    {{ partial "header/breadcrumbs.html" . }}
+  </div>
+{{ end }}
