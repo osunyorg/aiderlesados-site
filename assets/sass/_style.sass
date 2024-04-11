@@ -105,6 +105,8 @@
 header.hero
     .organizations__section &,
     .posts__section &
+        .content
+            display: block
         .hero-text
             width: 100%
             h1,
@@ -112,11 +114,36 @@ header.hero
                 text-align: center
                 margin-left: auto
                 margin-right: auto
+            hgroup
+                width: fit-content
+                .lead
+                    text-align: right
+                    margin-left: auto
+                    width: fit-content
             h1
-                max-width: 7ch
+                max-width: 9ch
             .lead
                 font-size: pxToRem(24)
                 transform: rotate(-5deg)
+        @include media-breakpoint-down(desktop)
+            margin-bottom: $spacing-6
+    .organizations__section &,
+    .posts__section &
+        .lead
+            display: flex
+            flex-direction: column
+            &::after
+                aspect-ratio: 198 / 27
+                background-size: cover
+                content: ''
+                width: 100%
+    .organizations__section &
+        .lead::after
+            background-image: url('/assets/images/doodles/doodle-organizations.svg')
+    .posts__section &
+        .lead::after
+            background-image: url('/assets/images/doodles/doodle-testimonies.svg')
+
 
 // blocks
 .block-call_to_action
@@ -131,6 +158,12 @@ header.hero
                 position: absolute
                 bottom: -$spacing-6
                 right: 0
+
+.posts--grid
+    .media
+        aspect-ratio: 1.3074
+        background-color: rgba($site-purple, 0.2)
+        border-radius: 16px
 
 .block-pages--cards.with-images
     article
