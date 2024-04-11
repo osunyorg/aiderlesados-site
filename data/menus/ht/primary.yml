@@ -37,6 +37,10 @@ items:
     target: "/ht/organisations/les-organisations-de-corse/"
     kind: page
     children: []
+  - title: Organisations à travers la France
+    target: "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
