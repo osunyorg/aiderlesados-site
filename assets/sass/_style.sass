@@ -164,7 +164,12 @@ header.hero
         aspect-ratio: 1.3074
         background-color: rgba($site-purple, 0.2)
         border-radius: 16px
-
+        img
+            height: 100%
+            width: 100%
+    @include media-breakpoint-down(desktop)
+        article + article
+            margin-top: $spacing-3
 .block-pages--cards.with-images
     article
         border-radius: 16px

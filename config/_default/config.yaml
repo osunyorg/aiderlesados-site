@@ -12,3 +12,6 @@ params:
   posts:
     index:
       layout: grid
+  menu:
+    dropdown:
+      linkToLevel1: true
