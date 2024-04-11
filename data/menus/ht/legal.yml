@@ -1,4 +1,8 @@
 ---
 title: Informations légales
-items: []
+items:
+- title: Plan du site
+  target: "/ht/plan-du-site/"
+  kind: page
+  children: []
 
