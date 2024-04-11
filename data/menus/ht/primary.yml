@@ -69,10 +69,6 @@ items:
     target: "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
-- title: Équipe
-  target: "/ht/equipe/"
-  kind: page
-  children: []
 - title: Pwosedi administratif yo
   target: "/ht/pwosedi-administratif/"
   kind: page
