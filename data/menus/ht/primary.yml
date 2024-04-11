@@ -57,6 +57,14 @@ items:
     target: "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     children: []
+  - title: Les organisations d'Occitanie
+    target: "/ht/organisations/les-organisations-doccitanie/"
+    kind: page
+    children: []
+  - title: Les organisations du Pays de la Loire
+    target: "/ht/organisations/les-organisations-du-pays-de-la-loire/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
