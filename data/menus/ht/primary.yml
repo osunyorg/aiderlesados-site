@@ -13,8 +13,20 @@ items:
     target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
+  - title: Les organisations du Centre-Val de Loire
+    target: "/ht/organisations/les-organisations-du-centre-val-de-loire/"
+    kind: page
+    children: []
   - title: Les organisations de Bretagne
     target: "/ht/organisations/les-organisations-de-bretagne/"
+    kind: page
+    children: []
+  - title: Les organisations d'Île-de-France
+    target: "/ht/organisations/les-organisations-dile-de-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Bourgogne-Franche-Comté
+    target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
 - title: Équipe
