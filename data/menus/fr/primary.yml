@@ -61,7 +61,7 @@ items:
     target: "/fr/organisations/les-organisations-doccitanie/"
     kind: page
     children: []
-  - title: Les organisations du Pays de la Loire
+  - title: Pays de la Loire
     target: "/fr/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     children: []
