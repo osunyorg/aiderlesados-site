@@ -8,7 +8,15 @@ items:
 - title: Organisations
   target: "/ht/organisations/"
   kind: page
-  children: []
+  children:
+  - title: Les organisations d'Auvergne-Rhône-Alpes
+    target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
+    kind: page
+    children: []
+  - title: Les organisations de Bretagne
+    target: "/ht/organisations/les-organisations-de-bretagne/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
