@@ -13,6 +13,10 @@ items:
     target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
+  - title: Les organisations du Centre-Val de Loire
+    target: "/ht/organisations/les-organisations-du-centre-val-de-loire/"
+    kind: page
+    children: []
   - title: Les organisations de Bretagne
     target: "/ht/organisations/les-organisations-de-bretagne/"
     kind: page
