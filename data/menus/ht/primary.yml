@@ -53,6 +53,10 @@ items:
     target: "/ht/organisations/les-organisations-de-normandie/"
     kind: page
     children: []
+  - title: Les organisations de Nouvelle-Aquitaine
+    target: "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
