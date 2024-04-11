@@ -5,7 +5,7 @@ items:
   target: "/ht/actualites/"
   kind: page
   children: []
-- title: Organisations
+- title: " Òganizasyon yo"
   target: "/ht/organisations/"
   kind: page
   children:
@@ -63,6 +63,10 @@ items:
     children: []
   - title: Les organisations du Pays de la Loire
     target: "/ht/organisations/les-organisations-du-pays-de-la-loire/"
+    kind: page
+    children: []
+  - title: Les organisations de Provence-Alpes-Côte d’Azur
+    target: "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
 - title: Équipe
