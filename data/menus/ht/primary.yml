@@ -45,6 +45,18 @@ items:
     target: "/ht/organisations/les-organisations-de-la-region-grand-est/"
     kind: page
     children: []
+  - title: Les organisations des Hauts-de-France
+    target: "/ht/organisations/les-organisations-des-hauts-de-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Normandie
+    target: "/ht/organisations/les-organisations-de-normandie/"
+    kind: page
+    children: []
+  - title: Les organisations de Nouvelle-Aquitaine
+    target: "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
