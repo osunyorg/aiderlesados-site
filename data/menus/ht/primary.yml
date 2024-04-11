@@ -5,7 +5,7 @@ items:
   target: "/ht/actualites/"
   kind: page
   children: []
-- title: Organisations
+- title: " Òganizasyon yo"
   target: "/ht/organisations/"
   kind: page
   children:
