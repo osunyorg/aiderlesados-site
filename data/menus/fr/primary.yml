@@ -57,7 +57,7 @@ items:
     target: "/fr/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     children: []
-  - title: Les organisations d'Occitanie
+  - title: Occitanie
     target: "/fr/organisations/les-organisations-doccitanie/"
     kind: page
     children: []
