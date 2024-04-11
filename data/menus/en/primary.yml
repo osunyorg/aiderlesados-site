@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Organizations
-  target: "/en/organizations/"
+  target: "/en/organizations-1/"
   kind: page
   children: []
 - title: Administrative procedure
@@ -15,6 +15,11 @@ items:
   children:
   - title: Annual Income Tax Return
     target: "/en/administrative-procedure/annual-income-tax-return/"
+    kind: page
+    children: []
+  - title: Application for a residence permit (refugees, stateless persons or beneficiaries
+      of subsidiary protection)
+    target: "/en/administrative-procedure/demande-de-cartetitre-de-sejour/"
     kind: page
     children: []
 - title: Team
