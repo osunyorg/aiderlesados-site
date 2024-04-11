@@ -69,10 +69,6 @@ items:
     target: "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
-- title: Équipe
-  target: "/ht/equipe/"
-  kind: page
-  children: []
 - title: Pwosedi administratif yo
   target: "/ht/pwosedi-administratif/"
   kind: page
@@ -87,6 +83,18 @@ items:
     children: []
   - title: Pèmi rezidans "lavi prive ak fanmi" (Carte de séjour « vie privée et familiale »)
     target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
+    kind: page
+    children: []
+- title: Pi plis sou sijà a
+  target: "/ht/autour-du-sujet/"
+  kind: page
+  children:
+  - title: Pwojè a
+    target: "/ht/autour-du-sujet/le-projet/"
+    kind: page
+    children: []
+  - title: Les ados aidants
+    target: "/ht/autour-du-sujet/les-ados-aidants/"
     kind: page
     children: []
 
