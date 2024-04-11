@@ -62,9 +62,10 @@
 // headings
 .heading
     @include in-page-with-sidebar
-    svg
-        display: none
+        svg
+            display: none
     @include in-page-without-sidebar
+        display: block
         margin-right: 0
         margin-left: 0
         max-width: unset
@@ -101,6 +102,7 @@
     + .block
         margin-top: $spacing-5
 
+// blocks
 .block-call_to_action
     .call_to_action
         position: relative
@@ -113,6 +115,28 @@
                 position: absolute
                 bottom: -$spacing-6
                 right: 0
+.block-pages--cards.with-images
+    article
+        border-radius: 16px
+        overflow: hidden
+        @include media-breakpoint-up(desktop)
+            aspect-ratio: 1.5775
+            min-height: unset
+        .media
+            position: absolute
+            width: pxToRem(70)
+            bottom: 0
+            transform: translate($spacing-3, 60%)
+            img
+                aspect-ratio: unset
+        .meta
+            font-weight: bold
+            justify-content: flex-end
+            &::after
+                margin-top: $spacing-5
+        &:hover
+            .media img
+                filter: brightness(10)
 
 // Des cibles cracra pour le style
 .page__home
@@ -140,3 +164,10 @@
             color: white
         + .block-call_to_action
             margin-top: 0
+
+.organizations__section
+    #les-organisations-par-region
+        h2::before
+            background-color: $site-green
+        svg path
+            stroke: $site-green
