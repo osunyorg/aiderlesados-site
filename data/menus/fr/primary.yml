@@ -33,7 +33,7 @@ items:
     target: "/fr/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
-  - title: Les organisations de Corse
+  - title: Corse
     target: "/fr/organisations/les-organisations-de-corse/"
     kind: page
     children: []
