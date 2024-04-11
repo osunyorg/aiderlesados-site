@@ -15,7 +15,6 @@ es:
     posts_categories: /testimonios/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
-    authors: /equipe/:slug/testimonios/
   taxonomies:
     administrator: administrators
     author: authors
@@ -42,7 +41,6 @@ en:
     posts_categories: /testimonials/:slug/
     organizations: /organizations/:slug/
     persons: /team/:slug/
-    authors: /team/:slug/testimonials/
   taxonomies:
     administrator: administrators
     author: authors
@@ -69,7 +67,6 @@ fr:
     posts_categories: /temoignages/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
-    authors: /equipe/:slug/temoignages/
   taxonomies:
     administrator: administrators
     author: authors
@@ -96,7 +93,6 @@ ht:
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
-    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
