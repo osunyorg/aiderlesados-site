@@ -89,4 +89,16 @@ items:
     target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
     kind: page
     children: []
+- title: Pi plis sou sijà a
+  target: "/ht/autour-du-sujet/"
+  kind: page
+  children:
+  - title: Pwojè a
+    target: "/ht/autour-du-sujet/le-projet/"
+    kind: page
+    children: []
+  - title: Les ados aidants
+    target: "/ht/autour-du-sujet/les-ados-aidants/"
+    kind: page
+    children: []
 
