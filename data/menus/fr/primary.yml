@@ -45,7 +45,7 @@ items:
     target: "/fr/organisations/les-organisations-de-la-region-grand-est/"
     kind: page
     children: []
-  - title: Les organisations des Hauts-de-France
+  - title: Hauts-de-France
     target: "/fr/organisations/les-organisations-des-hauts-de-france/"
     kind: page
     children: []
