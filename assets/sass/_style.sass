@@ -125,18 +125,27 @@ header.hero
             .lead
                 font-size: pxToRem(24)
                 transform: rotate(-5deg)
-        @include media-breakpoint-down(desktop)
-            margin-bottom: $spacing-6
-    .organizations__section &,
-    .posts__section &
-        .lead
-            display: flex
-            flex-direction: column
-            &::after
-                aspect-ratio: 198 / 27
-                background-size: cover
-                content: ''
+                display: flex
+                flex-direction: column
+                &::after
+                    aspect-ratio: 198 / 27
+                    background-size: cover
+                    content: ''
+                    width: 100%
+        .container
+            position: relative
+            figure
+                position: absolute
+                top: 0
+                left: 0
                 width: 100%
+                z-index: 1
+            nav,
+            .hero-text
+                z-index: 2
+                position: relative
+            @include media-breakpoint-down(desktop)
+                margin-bottom: $spacing-6
     .organizations__section &
         .lead::after
             background-image: url('/assets/images/doodles/doodle-organizations.svg')
