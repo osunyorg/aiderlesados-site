@@ -29,6 +29,10 @@ items:
     target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
+  - title: Les organisations de Corse
+    target: "/ht/organisations/les-organisations-de-corse/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
