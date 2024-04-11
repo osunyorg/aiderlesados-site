@@ -20,7 +20,7 @@
   {{ end }}
 {{ end }}
 
-{{- $title := or .Params.header_text .Title -}}
+{{- $title := or .Params.header_text .Params.Title -}}
 
 <header class="hero {{ if .Params.image }}hero--with-image hero--image-{{- $direction }}{{ end }} {{ if $breadcrumb_is_after_hero }} hero--no-margin {{ end }}">
   <div class="container">
@@ -37,7 +37,7 @@
             {{ end }}
           </hgroup>
         {{ else }}
-          <h1>{{ partial "PrepareHTML" .title }}</h1>
+          <h1>{{ partial "PrepareHTML" .Params.title }}</h1>
         {{ end }}
       </div>
     </div>
@@ -70,7 +70,7 @@
       {{ end }}
 
       {{ if $description }}
-        <p>{{ partial "PrepareHTML" .description }}</p>
+        <p class="lead"><span>{{ partial "PrepareHTML" .Params.description }}</span></p>
       {{ end }}
     </div>
   </div>

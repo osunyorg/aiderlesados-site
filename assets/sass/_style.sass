@@ -61,9 +61,32 @@
 
 // headings
 .heading
+    @include media-breakpoint-up(desktop)
+        h2
+            align-items: center
+            display: flex
+            &::before
+                content: ''
+                background: $color-accent
+                width: columns(2)
+                height: 8px
+                border-bottom-right-radius: 8px
+                border-top-right-radius: 8px
+                @media only screen and (min-width: 2000px)
+                    border-bottom-left-radius: 8px
+                    border-top-left-radius: 8px
     @include in-page-with-sidebar
+        p
+            position: relative
+            width: fit-content
         svg
-            display: none
+            position: absolute
+            right: 0
+            bottom: -$spacing-3
+        h2::before
+            border-bottom-left-radius: 8px
+            border-top-left-radius: 8px
+            margin-right: space(7)
     @include in-page-without-sidebar
         display: block
         margin-right: 0
@@ -73,38 +96,31 @@
         width: unset
         h2
             @include container
-            align-items: center
-            display: flex
             width: var(--grid-width) !important
-            p
-                position: relative
-                width: fit-content
-                svg
-                    position: absolute
-                    right: 0
-                    bottom: -50%
-                    @include media-breakpoint-down(desktop)
-                        right: unset
-                        left: 0
-                        width: 50%
             &::before
-                content: ''
-                background: $color-accent
-                width: calc(#{columns(3)} + var(--grid-gutter))
-                height: 8px
-                border-bottom-right-radius: 8px
-                border-top-right-radius: 8px
-                margin-left: var(--grid-gutter-negative)
                 margin-right: var(--grid-gutter)
-                @media only screen and (min-width: 2000px)
-                    border-bottom-left-radius: 8px
-                    border-top-left-radius: 8px
+                margin-left: var(--grid-gutter-negative)
+                width: calc(#{columns(3)} + var(--grid-gutter))
+    p
+        position: relative
+        width: fit-content
+        svg
+            position: absolute
+            @include media-breakpoint-down(desktop)
+                left: 0
+                bottom: -$spacing-3
+                path:nth-child(n+14)
+                    visibility: hidden
+            @include media-breakpoint-up(desktop)
+                bottom: -50%
+                right: 0
     + .block
         margin-top: $spacing-5
 
 header.hero
     .organizations__section &,
-    .posts__section &
+    .posts__section &,
+    .posts__page &
         .content
             display: block
         .hero-text
@@ -114,45 +130,101 @@ header.hero
                 text-align: center
                 margin-left: auto
                 margin-right: auto
-            hgroup
                 width: fit-content
                 .lead
                     text-align: right
                     margin-left: auto
                     width: fit-content
-            h1
-                max-width: 9ch
-            .lead
-                font-size: pxToRem(24)
-                transform: rotate(-5deg)
-                display: flex
-                flex-direction: column
-                &::after
-                    aspect-ratio: 198 / 27
-                    background-size: cover
-                    content: ''
-                    width: 100%
+                .lead
+                    font-size: pxToRem(24)
+                    transform: rotate(-5deg)
+                    display: flex
+                    flex-direction: column
+                    &::after
+                        aspect-ratio: 198 / 27
+                        background-size: cover
+                        content: ''
+                        width: 100%
+    .organizations__section &,
+    .posts__section &
+        h1
+            max-width: 9ch
         .container
             position: relative
             figure
+                pointer-events: none
                 position: absolute
                 top: 0
                 left: 0
+                right: 0
                 width: 100%
                 z-index: 1
+                @include media-breakpoint-down(desktop)
+                    bottom: 0
+                    top: unset
+                    transform: scale(2)
+                    left: $spacing-3
             nav,
             .hero-text
                 z-index: 2
                 position: relative
+            @include media-breakpoint-up(xl)
+                .hero-text
+                    margin-top: $spacing-6
             @include media-breakpoint-down(desktop)
                 margin-bottom: $spacing-6
     .organizations__section &
         .lead::after
             background-image: url('/assets/images/doodles/doodle-organizations.svg')
-    .posts__section &
+    .posts__section &,
+    .posts__page &
         .lead::after
             background-image: url('/assets/images/doodles/doodle-testimonies.svg')
-
+        .content + .content
+            display: flex
+            .lead
+                align-items: center
+                display: flex
+                position: relative
+                &::before
+                    aspect-ratio: 1.455
+                    background:
+                        image: url('/assets/images/doodles/cloud.svg')
+                        repeat: no-repeat
+                        size: contain
+                    content: ''
+                    max-width: 380px
+                    position: absolute
+                    width: 100%
+                    z-index: 1
+                span
+                    position: relative
+                    z-index: 2
+        @include media-breakpoint-up(desktop)
+            .hero-text
+                .lead
+                    transform: rotate(-5deg) translateX($spacing-4) !important
+            .content + .content
+                align-items: stretch
+                figure
+                    width: columns(5)
+                .lead
+                    padding-right: columns(2)
+                    position: relative
+                    width: columns(6)
+                    &::before
+                        left: -(space(28))
+    @include media-breakpoint-up(xxl)
+        .posts__section &
+            + .document-content
+                margin-top: $spacing-7
+    @include media-breakpoint-down(desktop)
+        .posts__page &
+            .content + .content
+                flex-direction: column-reverse
+                .lead
+                    justify-content: center
+                    text-align: center
 
 // blocks
 .block-call_to_action
@@ -180,11 +252,15 @@ header.hero
     @include media-breakpoint-down(desktop)
         article + article
             margin-top: $spacing-3
+
 .block-pages--cards.with-images
     article
         border-radius: 16px
         overflow: hidden
-        @include media-breakpoint-up(desktop)
+        @include media-breakpoint-up(xl)
+            aspect-ratio: 1.5775
+            min-height: unset
+        @include media-breakpoint-down(xl)
             aspect-ratio: 1.5775
             min-height: unset
         .media
@@ -236,3 +312,15 @@ header.hero
             background-color: $site-green
         svg path
             stroke: $site-green
+
+.posts__page
+    .heading
+        h2::before
+            background-color: $site-purple
+        svg path
+            stroke: $site-purple
+
+.organizations__section,
+.posts__section
+    main
+        overflow: hidden
