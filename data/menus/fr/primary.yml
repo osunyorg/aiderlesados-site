@@ -17,7 +17,7 @@ items:
     target: "/fr/organisations/les-organisations-du-centre-val-de-loire/"
     kind: page
     children: []
-  - title: Les organisations de Bretagne
+  - title: Bretagne
     target: "/fr/organisations/les-organisations-de-bretagne/"
     kind: page
     children: []
