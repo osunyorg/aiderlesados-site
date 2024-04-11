@@ -65,7 +65,7 @@ items:
     target: "/fr/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     children: []
-  - title: Les organisations de Provence-Alpes-Côte d’Azur
+  - title: Provence-Alpes-Côte d’Azur
     target: "/fr/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
