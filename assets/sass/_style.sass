@@ -102,6 +102,22 @@
     + .block
         margin-top: $spacing-5
 
+header.hero
+    .organizations__section &,
+    .posts__section &
+        .hero-text
+            width: 100%
+            h1,
+            hgroup
+                text-align: center
+                margin-left: auto
+                margin-right: auto
+            h1
+                max-width: 7ch
+            .lead
+                font-size: pxToRem(24)
+                transform: rotate(-5deg)
+
 // blocks
 .block-call_to_action
     .call_to_action
@@ -115,6 +131,7 @@
                 position: absolute
                 bottom: -$spacing-6
                 right: 0
+
 .block-pages--cards.with-images
     article
         border-radius: 16px
