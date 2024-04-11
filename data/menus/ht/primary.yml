@@ -1,16 +1,76 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
+- title: Temwayaj
   target: "/ht/actualites/"
   kind: page
   children: []
 - title: Organisations
   target: "/ht/organisations/"
   kind: page
-  children: []
+  children:
+  - title: Les organisations d'Auvergne-Rhône-Alpes
+    target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
+    kind: page
+    children: []
+  - title: Les organisations du Centre-Val de Loire
+    target: "/ht/organisations/les-organisations-du-centre-val-de-loire/"
+    kind: page
+    children: []
+  - title: Les organisations de Bretagne
+    target: "/ht/organisations/les-organisations-de-bretagne/"
+    kind: page
+    children: []
+  - title: Les organisations d'Île-de-France
+    target: "/ht/organisations/les-organisations-dile-de-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Bourgogne-Franche-Comté
+    target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
+    kind: page
+    children: []
+  - title: Les organisations des Départements et Régions d’Outre-Mer
+    target: "/ht/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
+    kind: page
+    children: []
+  - title: Les organisations de Corse
+    target: "/ht/organisations/les-organisations-de-corse/"
+    kind: page
+    children: []
+  - title: Organisations à travers la France
+    target: "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
+    kind: page
+    children: []
+  - title: Les organisations du Grand Est
+    target: "/ht/organisations/les-organisations-de-la-region-grand-est/"
+    kind: page
+    children: []
+  - title: Les organisations des Hauts-de-France
+    target: "/ht/organisations/les-organisations-des-hauts-de-france/"
+    kind: page
+    children: []
+  - title: Les organisations de Normandie
+    target: "/ht/organisations/les-organisations-de-normandie/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/ht/equipe/"
   kind: page
   children: []
+- title: Pwosedi administratif yo
+  target: "/ht/pwosedi-administratif/"
+  kind: page
+  children:
+  - title: Deklarasyon revni ak peman taks
+    target: "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
+    kind: page
+    children: []
+  - title: Demand pou viza alontèm
+    target: "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
+    kind: page
+    children: []
+  - title: Pèmi rezidans "lavi prive ak fanmi" (Carte de séjour « vie privée et familiale »)
+    target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
+    kind: page
+    children: []
 
