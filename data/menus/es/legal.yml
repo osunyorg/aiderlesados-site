@@ -9,12 +9,12 @@ items:
   target: "/es/politica-de-privacidad/"
   kind: page
   children: []
-- title: Accessibilité
-  target: "/es/accessibilite/"
+- title: Accesibilidad
+  target: "/es/accesibilidad/"
   kind: page
   children: []
-- title: Plan du site
-  target: "/es/plan-du-site/"
+- title: Mapa del sitio
+  target: "/es/mapa-del-sitio/"
   kind: page
   children: []
 
