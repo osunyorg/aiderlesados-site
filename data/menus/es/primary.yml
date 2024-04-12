@@ -5,41 +5,84 @@ items:
   target: "/es/testimonios/"
   kind: page
   children: []
-- title: Organisations
-  target: "/es/organisations/"
-  kind: page
-  children: []
-- title: Équipe
+- title: Equipo
   target: "/es/equipe/"
   kind: page
   children: []
+- title: Las organizaciones
+  target: "/es/organisations/"
+  kind: page
+  children:
+  - title: Auvergne-Rhône-Alpes
+    target: "/es/organisations/les-organismes-dauvergne-rhone-alpes/"
+    kind: page
+    children: []
+  - title: Centre-Val de Loire
+    target: "/es/organisations/les-organismes-du-centre-val-de-loire/"
+    kind: page
+    children: []
+  - title: Bretagne
+    target: "/es/organisations/les-organismes-de-bretagne/"
+    kind: page
+    children: []
+  - title: Île-de-France
+    target: "/es/organisations/les-organismes-dile-de-france/"
+    kind: page
+    children: []
+  - title: Bourgogne-Franche-Comté
+    target: "/es/organisations/les-organismes-de-bourgogne-franche-comte/"
+    kind: page
+    children: []
+  - title: Départements et Régions d’Outre-Mer
+    target: "/es/organisations/les-organismes-des-departements-et-regions-doutre-mer/"
+    kind: page
+    children: []
+  - title: Corse
+    target: "/es/organisations/les-organismes-de-corse/"
+    kind: page
+    children: []
+  - title: À travers la France
+    target: "/es/organisations/les-organismes-presentes-dans-toute-la-france/"
+    kind: page
+    children: []
+  - title: Grand Est
+    target: "/es/organisations/les-organismes-de-la-region-grand-est/"
+    kind: page
+    children: []
+  - title: Hauts-de-France
+    target: "/es/organisations/les-organismes-des-hauts-de-france/"
+    kind: page
+    children: []
+  - title: Normandie
+    target: "/es/organisations/les-organismes-de-normandie/"
+    kind: page
+    children: []
+  - title: Nouvelle-Aquitaine
+    target: "/es/organisations/les-organismes-de-nouvelle-aquitaine/"
+    kind: page
+    children: []
+  - title: Occitanie
+    target: "/es/organisations/les-organismes-doccitanie/"
+    kind: page
+    children: []
+  - title: Pays de la Loire
+    target: "/es/organisations/les-organismes-du-pays-de-la-loire/"
+    kind: page
+    children: []
+  - title: Provence-Alpes-Côte d’Azur
+    target: "/es/organisations/les-organismes-de-provence-alpes-cote-dazur/"
+    kind: page
+    children: []
 - title: Trámites administrativos
   target: "/es/tramites-administrativos/"
   kind: page
-  children:
-  - title: Declaración de ingresos y pago de impuestos
-    target: "/es/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos/"
-    kind: page
-    children: []
-  - title: Solicitud de autorización de residencia (para refugiados, apátridas o beneficiarios
-      de protección subsidiaria)
-    target: "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
-    kind: page
-    children: []
-  - title: Solicitud de visado de larga duración
-    target: "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
-    kind: page
-    children: []
-  - title: Tarjeta de residencia de "vida privada y familiar"
-    target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
-    kind: page
-    children: []
+  children: []
+- title: 'CGU '
+  target: "/es/cgu/"
+  kind: page
+  children: []
 - title: Autour du sujet
   target: "/es/autour-du-sujet/"
   kind: page
-  children:
-  - title: Le projet
-    target: "/es/autour-du-sujet/le-projet/"
-    kind: page
-    children: []
+  children: []
 

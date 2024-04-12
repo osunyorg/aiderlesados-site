@@ -1,4 +1,20 @@
 ---
 title: Informations légales
-items: []
+items:
+- title: Información jurídica
+  target: "/es/mentions-legales/"
+  kind: page
+  children: []
+- title: Política de privacidad
+  target: "/es/politica-de-privacidad/"
+  kind: page
+  children: []
+- title: Accessibilité
+  target: "/es/accessibilite/"
+  kind: page
+  children: []
+- title: Plan du site
+  target: "/es/plan-du-site/"
+  kind: page
+  children: []
 
