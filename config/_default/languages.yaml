@@ -14,7 +14,7 @@ es:
     posts: /testimonios/:year-:month-:day-:slug/
     posts_categories: /testimonios/:slug/
     organizations: /organisations/:slug/
-    persons: /equipe/:slug/
+    persons: /equipo/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -39,7 +39,7 @@ en:
   permalinks:
     posts: /testimonials/:year-:month-:day-:slug/
     posts_categories: /testimonials/:slug/
-    organizations: /organizations/:slug/
+    organizations: /organisms/:slug/
     persons: /team/:slug/
   taxonomies:
     administrator: administrators
