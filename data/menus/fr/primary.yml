@@ -5,68 +5,68 @@ items:
   target: "/fr/temoignages/"
   kind: page
   children: []
-- title: Organisations
-  target: "/fr/organisations/"
+- title: Organismes
+  target: "/fr/organismes/"
   kind: page
   children:
   - title: Dans toute la France
-    target: "/fr/organisations/les-organisations-presentes-dans-toute-la-france/"
+    target: "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
     kind: page
     children: []
   - title: Auvergne-Rhône-Alpes
-    target: "/fr/organisations/les-organisations-dauvergne-rhone-alpes/"
+    target: "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
     kind: page
     children: []
   - title: Centre-Val de Loire
-    target: "/fr/organisations/les-organisations-du-centre-val-de-loire/"
+    target: "/fr/organismes/les-organismes-du-centre-val-de-loire/"
     kind: page
     children: []
   - title: Bretagne
-    target: "/fr/organisations/les-organisations-de-bretagne/"
+    target: "/fr/organismes/les-organismes-de-bretagne/"
     kind: page
     children: []
   - title: Île-de-France
-    target: "/fr/organisations/les-organisations-dile-de-france/"
+    target: "/fr/organismes/les-organismes-dile-de-france/"
     kind: page
     children: []
   - title: Bourgogne-Franche-Comté
-    target: "/fr/organisations/les-organisations-de-bourgogne-franche-comte/"
+    target: "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
     kind: page
     children: []
   - title: Départements et Régions d’Outre-Mer
-    target: "/fr/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
+    target: "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
   - title: Corse
-    target: "/fr/organisations/les-organisations-de-corse/"
+    target: "/fr/organismes/les-organismes-de-corse/"
     kind: page
     children: []
   - title: Grand Est
-    target: "/fr/organisations/les-organisations-de-la-region-grand-est/"
+    target: "/fr/organismes/les-organismes-de-la-region-grand-est/"
     kind: page
     children: []
   - title: Hauts-de-France
-    target: "/fr/organisations/les-organisations-des-hauts-de-france/"
+    target: "/fr/organismes/les-organismes-des-hauts-de-france/"
     kind: page
     children: []
   - title: Normandie
-    target: "/fr/organisations/les-organisations-de-normandie/"
+    target: "/fr/organismes/les-organismes-de-normandie/"
     kind: page
     children: []
   - title: Nouvelle-Aquitaine
-    target: "/fr/organisations/les-organisations-de-nouvelle-aquitaine/"
+    target: "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
     kind: page
     children: []
   - title: Occitanie
-    target: "/fr/organisations/les-organisations-doccitanie/"
+    target: "/fr/organismes/les-organismes-doccitanie/"
     kind: page
     children: []
   - title: Pays de la Loire
-    target: "/fr/organisations/les-organisations-du-pays-de-la-loire/"
+    target: "/fr/organismes/les-organismes-du-pays-de-la-loire/"
     kind: page
     children: []
   - title: Provence-Alpes-Côte d’Azur
-    target: "/fr/organisations/les-organisations-de-provence-alpes-cote-dazur/"
+    target: "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
 - title: Démarches administratives
