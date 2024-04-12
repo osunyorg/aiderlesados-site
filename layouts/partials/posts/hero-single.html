@@ -29,11 +29,11 @@
     {{ end }}
     <div class="content">
       <div class="hero-text">
-        {{ if or $subtitle }}
+        {{ if or .Params.image.credit }}
           <hgroup>
             <h1>{{ partial "PrepareHTML" $title }}</h1>
-            {{ if $subtitle }}
-              <p {{ if $subtitle_is_summary }} class="lead" {{ end }}>{{ partial "PrepareHTML" $subtitle }}</p>
+            {{ if .Params.image.credit }}
+              {{ partial "PrepareHTML" .Params.image.credit }}
             {{ end }}
           </hgroup>
         {{ else }}
@@ -50,22 +50,6 @@
               "sizes"    site.Params.image_sizes.sections.posts.hero_single
               "lazy"     false
             ) }}
-          {{ if not site.Params.image_sizes.design_system.lightbox.disabled }}
-            <a  class="glightbox"
-                role="button"
-                data-glightbox="type: image;{{ with .Params.image.credit }}description: {{ partial "PrepareHTML" . }}{{ end }}"
-                href="{{ partial "GetLightboxUrl" .Params.image }}"
-                title="{{- i18n "commons.lightbox.link.title" -}}"
-                aria-label="{{- i18n "commons.lightbox.link.title" -}}">
-            </a>
-          {{ end }}
-          {{ with partial "GetTextFromHTML" .Params.image.credit }}
-            <figcaption tabindex="0">
-              <div class="credit-content">
-                {{ partial "PrepareHTML" . }}
-              </div>
-            </figcaption>
-          {{ end }}
         </figure>
       {{ end }}
 

@@ -117,10 +117,12 @@
     + .block
         margin-top: $spacing-5
 
+// header
 header.hero
     .organizations__section &,
     .posts__section &,
-    .posts__page &
+    .posts__page &,
+    .page__home &
         .content
             display: block
         .hero-text
@@ -131,11 +133,11 @@ header.hero
                 margin-left: auto
                 margin-right: auto
                 width: fit-content
-                .lead
+                > p
                     text-align: right
                     margin-left: auto
                     width: fit-content
-                .lead
+                > p
                     font-size: pxToRem(24)
                     transform: rotate(-5deg)
                     display: flex
@@ -145,8 +147,11 @@ header.hero
                         background-size: cover
                         content: ''
                         width: 100%
+                    @include media-breakpoint-down(desktop)
+                        font-size: pxToRem(15)
     .organizations__section &,
-    .posts__section &
+    .posts__section &,
+    .page__home &
         h1
             max-width: 9ch
         .container
@@ -174,12 +179,17 @@ header.hero
             @include media-breakpoint-down(desktop)
                 margin-bottom: $spacing-6
     .organizations__section &
-        .lead::after
-            background-image: url('/assets/images/doodles/doodle-organizations.svg')
+        h1, 
+        hgroup
+            > p::after
+                background-image: url('/assets/images/doodles/doodle-organizations.svg')
     .posts__section &,
-    .posts__page &
-        .lead::after
-            background-image: url('/assets/images/doodles/doodle-testimonies.svg')
+    .posts__page &,
+    .page__home &
+        h1, 
+        hgroup
+            > p::after
+                background-image: url('/assets/images/doodles/doodle-testimonies.svg')
         .content + .content
             display: flex
             .lead
@@ -202,8 +212,10 @@ header.hero
                     z-index: 2
         @include media-breakpoint-up(desktop)
             .hero-text
-                .lead
-                    transform: rotate(-5deg) translateX($spacing-4) !important
+                h1,
+                hgroup
+                    > p 
+                        transform: rotate(-5deg) translateX($spacing-4) !important
             .content + .content
                 align-items: stretch
                 figure
@@ -214,6 +226,12 @@ header.hero
                     width: columns(6)
                     &::before
                         left: -(space(28))
+    .page__home &
+        > .container
+            height: calc(95vh - (var(--header-height)))
+            background:
+                size: contain
+                repeat: no-repeat
     @include media-breakpoint-up(xxl)
         .posts__section &
             + .document-content
@@ -225,6 +243,51 @@ header.hero
                 .lead
                     justify-content: center
                     text-align: center
+        .page__home &
+            > .container
+                background-image: url('/assets/images/home-hero-2.svg')
+                background-position: top
+                .hero-text
+                    padding-top: space(55)
+    @include media-breakpoint-up(desktop)
+        .page__home &
+            > .container
+                background-image: url('/assets/images/home-hero-1.svg')
+                background-position: center
+
+// footer
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        > .container
+            > div
+                width: columns(6)
+        .container.quote
+            padding-top: 0
+            position: absolute
+            right: 0
+            top: $spacing-5
+            width: 100%
+            font-family: $body-font-family
+            ul
+                text-align: right
+                width: columns(6)
+                margin-left: auto
+        .footer-legals ul li,
+        .footer-credit
+                text-align: right
+
+.block-testimonials
+    .testimonials
+        min-height: pxToRem(270)
+        background: 
+            image: url('/assets/images/quote.svg')
+            repeat: no-repeat
+            position: right
+        @include media-breakpoint-down(desktop)
+            background-size: contain
+        figure
+            padding-top: $spacing-4
+
 
 // blocks
 .block-call_to_action
@@ -239,6 +302,11 @@ header.hero
                 position: absolute
                 bottom: -$spacing-6
                 right: 0
+
+.block-sound
+    audio
+        &::-webkit-media-controls-panel
+            background-color: rgba($site-purple, 0.2)
 
 .posts--grid,
 .block-posts--carousel
@@ -260,7 +328,7 @@ header.hero
         @include media-breakpoint-up(xl)
             aspect-ratio: 1.5775
             min-height: unset
-        @include media-breakpoint-down(xl)
+        @include media-breakpoint-down(lg)
             aspect-ratio: 1.5775
             min-height: unset
         .media
