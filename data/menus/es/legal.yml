@@ -5,8 +5,8 @@ items:
   target: "/es/mentions-legales/"
   kind: page
   children: []
-- title: Politique de confidentialité
-  target: "/es/politique-de-confidentialite/"
+- title: Política de privacidad
+  target: "/es/politica-de-privacidad/"
   kind: page
   children: []
 - title: Accessibilité
