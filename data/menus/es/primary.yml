@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Equipo
-  target: "/es/equipe/"
+  target: "/es/equipo/"
   kind: page
   children: []
 - title: Las organizaciones
@@ -76,7 +76,24 @@ items:
 - title: Trámites administrativos
   target: "/es/tramites-administrativos/"
   kind: page
-  children: []
+  children:
+  - title: Declaración de ingresos y pago de impuestos
+    target: "/es/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos/"
+    kind: page
+    children: []
+  - title: Solicitud de autorización de residencia (para refugiados, apátridas o beneficiarios
+      de protección subsidiaria)
+    target: "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
+    kind: page
+    children: []
+  - title: Solicitud de visado de larga duración
+    target: "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
+    kind: page
+    children: []
+  - title: Tarjeta de residencia de "vida privada y familiar"
+    target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
+    kind: page
+    children: []
 - title: 'CGU '
   target: "/es/cgu/"
   kind: page
@@ -84,5 +101,9 @@ items:
 - title: Autour du sujet
   target: "/es/autour-du-sujet/"
   kind: page
-  children: []
+  children:
+  - title: Le projet
+    target: "/es/autour-du-sujet/le-projet/"
+    kind: page
+    children: []
 
