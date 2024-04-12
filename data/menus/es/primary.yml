@@ -5,10 +5,6 @@ items:
   target: "/es/testimonios/"
   kind: page
   children: []
-- title: Equipo
-  target: "/es/equipo/"
-  kind: page
-  children: []
 - title: Las organizaciones
   target: "/es/organisations/"
   kind: page
@@ -94,16 +90,12 @@ items:
     target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
     kind: page
     children: []
-- title: 'CGU '
-  target: "/es/cgu/"
-  kind: page
-  children: []
-- title: Autour du sujet
-  target: "/es/autour-du-sujet/"
+- title: En torno al tema
+  target: "/es/en-torno-al-tema/"
   kind: page
   children:
   - title: Le projet
-    target: "/es/autour-du-sujet/le-projet/"
+    target: "/es/en-torno-al-tema/le-projet/"
     kind: page
     children: []
 
