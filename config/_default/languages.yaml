@@ -65,7 +65,7 @@ fr:
   permalinks:
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
-    organizations: /organisations/:slug/
+    organizations: /organismes/:slug/
     persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
