@@ -34,4 +34,12 @@ items:
     target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
     kind: page
     children: []
+- title: Autour du sujet
+  target: "/es/autour-du-sujet/"
+  kind: page
+  children:
+  - title: Le projet
+    target: "/es/autour-du-sujet/le-projet/"
+    kind: page
+    children: []
 
