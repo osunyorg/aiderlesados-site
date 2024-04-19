@@ -14,13 +14,17 @@ es:
     posts: /testimonios/:year-:month-:day-:slug/
     posts_categories: /testimonios/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /equipo/:slug/
+    persons_categories: /equipo/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -40,13 +44,17 @@ en:
     posts: /testimonials/:year-:month-:day-:slug/
     posts_categories: /testimonials/:slug/
     organizations: /organisms/:slug/
+    organizations_categories: /organisms/:slug/
     persons: /team/:slug/
+    persons_categories: /team/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -66,13 +74,17 @@ fr:
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
     organizations: /organismes/:slug/
+    organizations_categories: /organismes/:slug/
     persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -92,13 +104,17 @@ ht:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
