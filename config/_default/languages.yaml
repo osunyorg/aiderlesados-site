@@ -17,7 +17,6 @@ es:
     organizations_categories: /organisations/:slug/
     persons: /equipo/:slug/
     persons_categories: /equipo/:slug/
-    authors: /equipo/:slug/testimonios/
   taxonomies:
     administrator: administrators
     author: authors
@@ -48,7 +47,6 @@ en:
     organizations_categories: /organisms/:slug/
     persons: /team/:slug/
     persons_categories: /team/:slug/
-    authors: /team/:slug/testimonials/
   taxonomies:
     administrator: administrators
     author: authors
@@ -79,7 +77,6 @@ fr:
     organizations_categories: /organismes/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/:slug/
-    authors: /equipe/:slug/temoignages/
   taxonomies:
     administrator: administrators
     author: authors
@@ -110,7 +107,6 @@ ht:
     organizations_categories: /organisations/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/:slug/
-    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
