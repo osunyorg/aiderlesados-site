@@ -14,9 +14,9 @@ es:
     posts: /testimonios/:year-:month-:day-:slug/
     posts_categories: /testimonios/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipo/:slug/
-    persons_categories: /equipo/:slug/
+    persons_categories: /equipo/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -44,9 +44,9 @@ en:
     posts: /testimonials/:year-:month-:day-:slug/
     posts_categories: /testimonials/:slug/
     organizations: /organisms/:slug/
-    organizations_categories: /organisms/:slug/
+    organizations_categories: /organisms/categories/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -74,9 +74,9 @@ fr:
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
     organizations: /organismes/:slug/
-    organizations_categories: /organismes/:slug/
+    organizations_categories: /organismes/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -104,9 +104,9 @@ ht:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
