@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Organizations
-  target: "/en/organizations-1/"
+  target: "/en/organisms/"
   kind: page
   children: []
 - title: Administrative procedure
