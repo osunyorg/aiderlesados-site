@@ -102,4 +102,36 @@ items:
     target: "/ht/autour-du-sujet/le-projet/"
     kind: page
     children: []
+- title: Agenda
+  target: "/ht/agenda/"
+  kind: page
+  children: []
+- title: Projets
+  target: "/ht/projets/"
+  kind: page
+  children: []
+- title: Diplômes
+  target: "/ht/diplomes/"
+  kind: page
+  children: []
+- title: Formations
+  target: "/ht/formations/"
+  kind: page
+  children: []
+- title: Volumes
+  target: "/ht/volumes/"
+  kind: page
+  children: []
+- title: Papiers
+  target: "/ht/papiers/"
+  kind: page
+  children: []
+- title: Publications HAL
+  target: "/ht/publications/"
+  kind: page
+  children: []
+- title: Campus
+  target: "/ht/campus/"
+  kind: page
+  children: []
 
