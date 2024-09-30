@@ -73,6 +73,11 @@ items:
   target: "/ht/pwosedi-administratif/"
   kind: page
   children:
+  - title: Demand pou yon kat rezidans/pèmi | carte/titre de séjour (refijye, apatrid
+      oswa benefisyè pwoteksyon sipòtè)
+    target: "/ht/pwosedi-administratif/demand-kat-rezidans-pemi/"
+    kind: page
+    children: []
   - title: Deklarasyon revni ak peman taks
     target: "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
     kind: page
@@ -85,21 +90,16 @@ items:
     target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
     kind: page
     children: []
-  - title: Demand pou yon kat rezidans/pèmi | carte/titre de séjour (refijye, apatrid
-      oswa benefisyè pwoteksyon sipòtè)
-    target: "/ht/pwosedi-administratif/demand-kat-rezidans-pemi/"
-    kind: page
-    children: []
 - title: Pi plis sou sijà a
   target: "/ht/autour-du-sujet/"
   kind: page
   children:
-  - title: Pwojè a
-    target: "/ht/autour-du-sujet/le-projet/"
-    kind: page
-    children: []
   - title: Les ados aidants
     target: "/ht/autour-du-sujet/les-ados-aidants/"
+    kind: page
+    children: []
+  - title: Pwojè a
+    target: "/ht/autour-du-sujet/le-projet/"
     kind: page
     children: []
 
