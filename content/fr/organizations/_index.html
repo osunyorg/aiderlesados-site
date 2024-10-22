@@ -81,6 +81,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -103,6 +105,8 @@ contents:
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -297,19 +301,27 @@ contents:
         - slug: "sxm-nini"
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les organismes par région
-    slug: "les-organismes-par-region"
-    position: 1
-    rank: 2
+    slug: >-
+      les-organismes-par-region
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
-      Les organismes
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/fr/organismes/"
@@ -382,7 +394,6 @@ contents:
           slug: "les-organismes-de-provence-alpes-cote-dazur"
           file: "pages/organismes/les-organismes-de-provence-alpes-cote-dazur/_index.html"
           external: false
-
 
 
 

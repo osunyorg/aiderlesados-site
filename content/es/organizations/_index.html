@@ -72,6 +72,8 @@ contents:
     template: organizations
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 2
@@ -102,19 +104,27 @@ contents:
         - slug: "resf-reseau-education-sans-frontieres"
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les organisations par région
-    slug: "les-organisations-par-region"
-    position: 1
-    rank: 2
+    slug: >-
+      les-organisations-par-region
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
-      Las organizaciones
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/es/organisations/"
@@ -189,13 +199,17 @@ contents:
           external: false
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Ressources
-    slug: "ressources"
-    position: 2
-    rank: 2
+    slug: >-
+      ressources
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
 
 
 ---
