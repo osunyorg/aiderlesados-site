@@ -5,16 +5,20 @@ items:
   target: "/ht/mentions-legales/"
   kind: page
   children: []
+  file: content/ht/pages/mentions-legales/_index.html
 - title: Politique de confidentialité
   target: "/ht/politique-de-confidentialite/"
   kind: page
   children: []
+  file: content/ht/pages/politique-de-confidentialite/_index.html
 - title: Accessibilité
   target: "/ht/accessibilite/"
   kind: page
   children: []
+  file: content/ht/pages/accessibilite/_index.html
 - title: Plan du site
   target: "/ht/plan-du-site/"
   kind: page
   children: []
+  file: content/ht/pages/plan-du-site/_index.html
 

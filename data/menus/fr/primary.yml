@@ -5,6 +5,7 @@ items:
   target: "/fr/temoignages/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Organismes
   target: "/fr/organismes/"
   kind: page
@@ -13,62 +14,78 @@ items:
     target: "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-presentes-dans-toute-la-france/_index.html
   - title: Auvergne-Rhône-Alpes
     target: "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-dauvergne-rhone-alpes/_index.html
   - title: Centre-Val de Loire
     target: "/fr/organismes/les-organismes-du-centre-val-de-loire/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-du-centre-val-de-loire/_index.html
   - title: Bretagne
     target: "/fr/organismes/les-organismes-de-bretagne/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-bretagne/_index.html
   - title: Île-de-France
     target: "/fr/organismes/les-organismes-dile-de-france/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-dile-de-france/_index.html
   - title: Bourgogne-Franche-Comté
     target: "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-bourgogne-franche-comte/_index.html
   - title: Départements et Régions d’Outre-Mer
     target: "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-des-departements-et-regions-doutre-mer/_index.html
   - title: Corse
     target: "/fr/organismes/les-organismes-de-corse/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-corse/_index.html
   - title: Grand Est
     target: "/fr/organismes/les-organismes-de-la-region-grand-est/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-la-region-grand-est/_index.html
   - title: Hauts-de-France
     target: "/fr/organismes/les-organismes-des-hauts-de-france/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-des-hauts-de-france/_index.html
   - title: Normandie
     target: "/fr/organismes/les-organismes-de-normandie/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-normandie/_index.html
   - title: Nouvelle-Aquitaine
     target: "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-nouvelle-aquitaine/_index.html
   - title: Occitanie
     target: "/fr/organismes/les-organismes-doccitanie/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-doccitanie/_index.html
   - title: Pays de la Loire
     target: "/fr/organismes/les-organismes-du-pays-de-la-loire/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-du-pays-de-la-loire/_index.html
   - title: Provence-Alpes-Côte d’Azur
     target: "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
+    file: content/fr/pages/organismes/les-organismes-de-provence-alpes-cote-dazur/_index.html
+  file: content/fr/organizations/_index.html
 - title: Démarches administratives
   target: "/fr/demarches-administratives/"
   kind: page
@@ -77,18 +94,23 @@ items:
     target: "/fr/demarches-administratives/demande-de-cartetitre-de-sejour/"
     kind: page
     children: []
+    file: content/fr/pages/demarches-administratives/demande-de-cartetitre-de-sejour/_index.html
   - title: Déclaration de revenus et paiement des impôts
     target: "/fr/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
     kind: page
     children: []
+    file: content/fr/pages/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/_index.html
   - title: Demande de visa longue durée
     target: "/fr/demarches-administratives/demande-de-visa-longue-duree/"
     kind: page
     children: []
+    file: content/fr/pages/demarches-administratives/demande-de-visa-longue-duree/_index.html
   - title: Carte de séjour « vie privée et familiale »
     target: "/fr/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/"
     kind: page
     children: []
+    file: content/fr/pages/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/_index.html
+  file: content/fr/pages/demarches-administratives/_index.html
 - title: Autour du sujet
   target: "/fr/autour-du-sujet/"
   kind: page
@@ -97,8 +119,11 @@ items:
     target: "/fr/autour-du-sujet/les-ados-aidants/"
     kind: page
     children: []
+    file: content/fr/pages/autour-du-sujet/les-ados-aidants/_index.html
   - title: Le projet
     target: "/fr/autour-du-sujet/le-projet/"
     kind: page
     children: []
+    file: content/fr/pages/autour-du-sujet/le-projet/_index.html
+  file: content/fr/pages/autour-du-sujet/_index.html
 

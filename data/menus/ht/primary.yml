@@ -5,6 +5,7 @@ items:
   target: "/ht/actualites/"
   kind: page
   children: []
+  file: content/ht/posts/_index.html
 - title: " Òganizasyon yo"
   target: "/ht/organisations/"
   kind: page
@@ -13,62 +14,78 @@ items:
     target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-dauvergne-rhone-alpes/_index.html
   - title: Les organisations du Centre-Val de Loire
     target: "/ht/organisations/les-organisations-du-centre-val-de-loire/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-du-centre-val-de-loire/_index.html
   - title: Les organisations de Bretagne
     target: "/ht/organisations/les-organisations-de-bretagne/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-bretagne/_index.html
   - title: Les organisations d'Île-de-France
     target: "/ht/organisations/les-organisations-dile-de-france/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-dile-de-france/_index.html
   - title: Les organisations de Bourgogne-Franche-Comté
     target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-bourgogne-franche-comte/_index.html
   - title: Les organisations des Départements et Régions d’Outre-Mer
     target: "/ht/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-des-departements-et-regions-doutre-mer/_index.html
   - title: Les organisations de Corse
     target: "/ht/organisations/les-organisations-de-corse/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-corse/_index.html
   - title: Organisations à travers la France
     target: "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-presentes-dans-toute-la-france/_index.html
   - title: Les organisations du Grand Est
     target: "/ht/organisations/les-organisations-de-la-region-grand-est/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-la-region-grand-est/_index.html
   - title: Les organisations des Hauts-de-France
     target: "/ht/organisations/les-organisations-des-hauts-de-france/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-des-hauts-de-france/_index.html
   - title: Les organisations de Normandie
     target: "/ht/organisations/les-organisations-de-normandie/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-normandie/_index.html
   - title: Les organisations de Nouvelle-Aquitaine
     target: "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-nouvelle-aquitaine/_index.html
   - title: Les organisations d'Occitanie
     target: "/ht/organisations/les-organisations-doccitanie/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-doccitanie/_index.html
   - title: Les organisations du Pays de la Loire
     target: "/ht/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-du-pays-de-la-loire/_index.html
   - title: Les organisations de Provence-Alpes-Côte d’Azur
     target: "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     children: []
+    file: content/ht/pages/organisations/les-organisations-de-provence-alpes-cote-dazur/_index.html
+  file: content/ht/organizations/_index.html
 - title: Pwosedi administratif yo
   target: "/ht/pwosedi-administratif/"
   kind: page
@@ -78,18 +95,23 @@ items:
     target: "/ht/pwosedi-administratif/demand-kat-rezidans-pemi/"
     kind: page
     children: []
+    file: content/ht/pages/pwosedi-administratif/demand-kat-rezidans-pemi/_index.html
   - title: Deklarasyon revni ak peman taks
     target: "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
     kind: page
     children: []
+    file: content/ht/pages/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/_index.html
   - title: Demand pou viza alontèm
     target: "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
     kind: page
     children: []
+    file: content/ht/pages/pwosedi-administratif/demand-pou-viza-alontem/_index.html
   - title: Pèmi rezidans "lavi prive ak fanmi" (Carte de séjour « vie privée et familiale »)
     target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
     kind: page
     children: []
+    file: content/ht/pages/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/_index.html
+  file: content/ht/pages/pwosedi-administratif/_index.html
 - title: Pi plis sou sijà a
   target: "/ht/autour-du-sujet/"
   kind: page
@@ -98,8 +120,11 @@ items:
     target: "/ht/autour-du-sujet/les-ados-aidants/"
     kind: page
     children: []
+    file: content/ht/pages/autour-du-sujet/les-ados-aidants/_index.html
   - title: Pwojè a
     target: "/ht/autour-du-sujet/le-projet/"
     kind: page
     children: []
+    file: content/ht/pages/autour-du-sujet/le-projet/_index.html
+  file: content/ht/pages/autour-du-sujet/_index.html
 

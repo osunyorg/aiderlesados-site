@@ -5,10 +5,12 @@ items:
   target: "/en/testimonials/"
   kind: page
   children: []
+  file: content/en/posts/_index.html
 - title: Organizations
   target: "/en/organisms/"
   kind: page
   children: []
+  file: content/en/organizations/_index.html
 - title: Administrative procedure
   target: "/en/administrative-procedure/"
   kind: page
@@ -17,13 +19,17 @@ items:
     target: "/en/administrative-procedure/annual-income-tax-return/"
     kind: page
     children: []
+    file: content/en/pages/administrative-procedure/annual-income-tax-return/_index.html
   - title: Application for a residence permit (refugees, stateless persons or beneficiaries
       of subsidiary protection)
     target: "/en/administrative-procedure/demande-de-cartetitre-de-sejour/"
     kind: page
     children: []
+    file: content/en/pages/administrative-procedure/demande-de-cartetitre-de-sejour/_index.html
+  file: content/en/pages/administrative-procedure/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
   children: []
+  file: content/en/persons/_index.html
 
