@@ -7,9 +7,14 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        casserlad@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            casserlad@gmail.com
+          value: >-
+            mailto:casserlad@gmail.com
+
   permalinks:
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
@@ -37,9 +42,14 @@ es:
   languageCode: es
   languageName: Español
   params:
-    social:
-      email: >-
-        casserlad@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            casserlad@gmail.com
+          value: >-
+            mailto:casserlad@gmail.com
+
   permalinks:
     posts: /testimonios/:year-:month-:day-:slug/
     posts_categories: /testimonios/:slug/
@@ -67,9 +77,14 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        casserlad@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            casserlad@gmail.com
+          value: >-
+            mailto:casserlad@gmail.com
+
   permalinks:
     posts: /testimonials/:year-:month-:day-:slug/
     posts_categories: /testimonials/:slug/
@@ -97,9 +112,14 @@ ht:
   languageCode: ht
   languageName: Kreyòl ayisyen
   params:
-    social:
-      email: >-
-        casserlad@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            casserlad@gmail.com
+          value: >-
+            mailto:casserlad@gmail.com
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
