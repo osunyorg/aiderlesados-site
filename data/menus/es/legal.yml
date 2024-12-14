@@ -5,20 +5,24 @@ items:
   target: "/es/mentions-legales/"
   kind: page
   children: []
+  path: "/pages/mentions-legales"
   file: content/es/pages/mentions-legales/_index.html
 - title: Política de privacidad
   target: "/es/politica-de-privacidad/"
   kind: page
   children: []
+  path: "/pages/politica-de-privacidad"
   file: content/es/pages/politica-de-privacidad/_index.html
 - title: Accesibilidad
   target: "/es/accesibilidad/"
   kind: page
   children: []
+  path: "/pages/accesibilidad"
   file: content/es/pages/accesibilidad/_index.html
 - title: Mapa del sitio
   target: "/es/mapa-del-sitio/"
   kind: page
   children: []
+  path: "/pages/mapa-del-sitio"
   file: content/es/pages/mapa-del-sitio/_index.html
 
