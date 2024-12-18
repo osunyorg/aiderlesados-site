@@ -83,8 +83,10 @@ contents:
     slug: >-
       
     ranks:
-      self: 2
-      children: 3
+      base: 2
+      children: 2
+    top:
+      active: false
     data:
       layout: map
       description: >-
@@ -161,7 +163,14 @@ contents:
     slug: >-
       les-organisations-par-region
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Les organisations par région
+        heading: 2
     data:
       layout: classic
 
@@ -173,8 +182,16 @@ contents:
     slug: >-
       
     ranks:
-      self: 2
+      base: 3
       children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Organisms
+        heading: 3
+      description: >-
+        <p>Here is the list of organizations present throughout France (Mainland and Overseas Territories).</p>
     data:
       page:
         permalink: "/en/organisms/"
@@ -258,7 +275,14 @@ contents:
     slug: >-
       ressources
     ranks:
+      base: 2
       self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Ressources
+        heading: 2
     data:
       layout: classic
 
@@ -270,7 +294,9 @@ contents:
     slug: >-
       
     ranks:
-      self: 2
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-

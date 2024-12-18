@@ -5,5 +5,6 @@ items:
     yo pou ede ou.
   target: ''
   kind: blank
+  new_tab: false
   children: []
 
