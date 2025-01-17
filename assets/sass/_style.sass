@@ -60,7 +60,7 @@
                     right: $spacing-1
 
 // headings
-.heading
+.heading.block.block-title
     @include media-breakpoint-up(desktop)
         h2
             align-items: center
@@ -96,6 +96,7 @@
         width: unset
         h2
             @include container
+            max-width: 100%
             width: var(--grid-width) !important
             &::before
                 margin-right: var(--grid-gutter)
