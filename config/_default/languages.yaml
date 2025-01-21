@@ -16,6 +16,7 @@ fr:
             mailto:casserlad@gmail.com
 
   permalinks:
+    pages_categories: /:slug/
     posts: /temoignages/:year-:month-:day-:slug/
     posts_categories: /temoignages/:slug/
     organizations: /organismes/:slug/
@@ -29,6 +30,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -51,6 +53,7 @@ es:
             mailto:casserlad@gmail.com
 
   permalinks:
+    pages_categories: /:slug/
     posts: /testimonios/:year-:month-:day-:slug/
     posts_categories: /testimonios/:slug/
     organizations: /organisations/:slug/
@@ -64,6 +67,7 @@ es:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -86,6 +90,7 @@ en:
             mailto:casserlad@gmail.com
 
   permalinks:
+    pages_categories: /:slug/
     posts: /testimonials/:year-:month-:day-:slug/
     posts_categories: /testimonials/:slug/
     organizations: /organisms/:slug/
@@ -99,6 +104,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -121,6 +127,7 @@ ht:
             mailto:casserlad@gmail.com
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
@@ -134,6 +141,7 @@ ht:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
