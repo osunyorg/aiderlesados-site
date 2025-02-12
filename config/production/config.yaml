@@ -2,6 +2,11 @@
 
 baseURL: https://casserlademarche.mmibordeaux.com
 
+## OSUNY
+osuny:
+  website:
+    id: 215470a6-e1c8-4ce1-9c0b-6bc10158458f
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
