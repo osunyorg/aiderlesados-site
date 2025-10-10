@@ -8,6 +8,13 @@ items:
   children: []
   path: "/posts"
   file: content/ht/posts/_index.html
+- title: Équipe
+  target: "/ht/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/ht/persons/_index.html
 - title: " Òganizasyon yo"
   target: "/ht/organisations/"
   kind: page
