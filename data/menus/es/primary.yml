@@ -2,172 +2,240 @@
 title: Menu principal
 items:
 - title: Testimonios
+  slug: testimonios
   target: "/es/testimonios/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/es/posts/_index.html
 - title: Las organizaciones
+  slug: las-organizaciones
   target: "/es/organisations/"
   kind: page
   new_tab: false
   children:
   - title: Auvergne-Rhône-Alpes
+    slug: auvergne-rhone-alpes
     target: "/es/organisations/les-organismes-dauvergne-rhone-alpes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-dauvergne-rhone-alpes"
     file: content/es/pages/organisations/les-organismes-dauvergne-rhone-alpes/_index.html
   - title: Centre-Val de Loire
+    slug: centre-val-de-loire
     target: "/es/organisations/les-organismes-du-centre-val-de-loire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-du-centre-val-de-loire"
     file: content/es/pages/organisations/les-organismes-du-centre-val-de-loire/_index.html
   - title: Bretagne
+    slug: bretagne
     target: "/es/organisations/les-organismes-de-bretagne/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-bretagne"
     file: content/es/pages/organisations/les-organismes-de-bretagne/_index.html
   - title: Île-de-France
+    slug: ile-de-france
     target: "/es/organisations/les-organismes-dile-de-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-dile-de-france"
     file: content/es/pages/organisations/les-organismes-dile-de-france/_index.html
   - title: Bourgogne-Franche-Comté
+    slug: bourgogne-franche-comte
     target: "/es/organisations/les-organismes-de-bourgogne-franche-comte/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-bourgogne-franche-comte"
     file: content/es/pages/organisations/les-organismes-de-bourgogne-franche-comte/_index.html
   - title: Départements et Régions d’Outre-Mer
+    slug: departements-et-regions-d-outre-mer
     target: "/es/organisations/les-organismes-des-departements-et-regions-doutre-mer/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-des-departements-et-regions-doutre-mer"
     file: content/es/pages/organisations/les-organismes-des-departements-et-regions-doutre-mer/_index.html
   - title: Corse
+    slug: corse
     target: "/es/organisations/les-organismes-de-corse/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-corse"
     file: content/es/pages/organisations/les-organismes-de-corse/_index.html
   - title: À travers la France
+    slug: a-travers-la-france
     target: "/es/organisations/les-organismes-presentes-dans-toute-la-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-presentes-dans-toute-la-france"
     file: content/es/pages/organisations/les-organismes-presentes-dans-toute-la-france/_index.html
   - title: Grand Est
+    slug: grand-est
     target: "/es/organisations/les-organismes-de-la-region-grand-est/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-la-region-grand-est"
     file: content/es/pages/organisations/les-organismes-de-la-region-grand-est/_index.html
   - title: Hauts-de-France
+    slug: hauts-de-france
     target: "/es/organisations/les-organismes-des-hauts-de-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-des-hauts-de-france"
     file: content/es/pages/organisations/les-organismes-des-hauts-de-france/_index.html
   - title: Normandie
+    slug: normandie
     target: "/es/organisations/les-organismes-de-normandie/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-normandie"
     file: content/es/pages/organisations/les-organismes-de-normandie/_index.html
   - title: Nouvelle-Aquitaine
+    slug: nouvelle-aquitaine
     target: "/es/organisations/les-organismes-de-nouvelle-aquitaine/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-nouvelle-aquitaine"
     file: content/es/pages/organisations/les-organismes-de-nouvelle-aquitaine/_index.html
   - title: Occitanie
+    slug: occitanie
     target: "/es/organisations/les-organismes-doccitanie/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-doccitanie"
     file: content/es/pages/organisations/les-organismes-doccitanie/_index.html
   - title: Pays de la Loire
+    slug: pays-de-la-loire
     target: "/es/organisations/les-organismes-du-pays-de-la-loire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-du-pays-de-la-loire"
     file: content/es/pages/organisations/les-organismes-du-pays-de-la-loire/_index.html
   - title: Provence-Alpes-Côte d’Azur
+    slug: provence-alpes-cote-d-azur
     target: "/es/organisations/les-organismes-de-provence-alpes-cote-dazur/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organismes-de-provence-alpes-cote-dazur"
     file: content/es/pages/organisations/les-organismes-de-provence-alpes-cote-dazur/_index.html
+  descendants_targets:
+  - "/es/organisations/les-organismes-dauvergne-rhone-alpes/"
+  - "/es/organisations/les-organismes-de-bourgogne-franche-comte/"
+  - "/es/organisations/les-organismes-de-bretagne/"
+  - "/es/organisations/les-organismes-de-corse/"
+  - "/es/organisations/les-organismes-de-la-region-grand-est/"
+  - "/es/organisations/les-organismes-de-normandie/"
+  - "/es/organisations/les-organismes-de-nouvelle-aquitaine/"
+  - "/es/organisations/les-organismes-de-provence-alpes-cote-dazur/"
+  - "/es/organisations/les-organismes-des-departements-et-regions-doutre-mer/"
+  - "/es/organisations/les-organismes-des-hauts-de-france/"
+  - "/es/organisations/les-organismes-dile-de-france/"
+  - "/es/organisations/les-organismes-doccitanie/"
+  - "/es/organisations/les-organismes-du-centre-val-de-loire/"
+  - "/es/organisations/les-organismes-du-pays-de-la-loire/"
+  - "/es/organisations/les-organismes-presentes-dans-toute-la-france/"
   path: "/organizations"
   file: content/es/organizations/_index.html
 - title: Trámites administrativos
+  slug: tramites-administrativos
   target: "/es/tramites-administrativos/"
   kind: page
   new_tab: false
   children:
   - title: Declaración de ingresos y pago de impuestos
+    slug: declaracion-de-ingresos-y-pago-de-impuestos
     target: "/es/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos"
     file: content/es/pages/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos/_index.html
   - title: Solicitud de autorización de residencia (para refugiados, apátridas o beneficiarios
       de protección subsidiaria)
+    slug: solicitud-de-autorizacion-de-residencia-para-refugiados-apatridas-o-beneficiarios-de-proteccion-subsidiaria
     target: "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tramites-administrativos/solicitud-de-autorizacion-de-residencia"
     file: content/es/pages/tramites-administrativos/solicitud-de-autorizacion-de-residencia/_index.html
   - title: Solicitud de visado de larga duración
+    slug: solicitud-de-visado-de-larga-duracion
     target: "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tramites-administrativos/solicitud-de-visado-de-larga-duracion"
     file: content/es/pages/tramites-administrativos/solicitud-de-visado-de-larga-duracion/_index.html
   - title: Tarjeta de residencia de "vida privada y familiar"
+    slug: tarjeta-de-residencia-de-vida-privada-y-familiar
     target: "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar"
     file: content/es/pages/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/_index.html
+  descendants_targets:
+  - "/es/tramites-administrativos/declaracion-de-ingresos-y-pago-des-impuestos/"
+  - "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
+  - "/es/tramites-administrativos/solicitud-de-visado-de-larga-duracion/"
+  - "/es/tramites-administrativos/tarjeta-de-residencia-de-vida-privada-y-familiar/"
   path: "/pages/tramites-administrativos"
   file: content/es/pages/tramites-administrativos/_index.html
 - title: En torno al tema
+  slug: en-torno-al-tema
   target: "/es/en-torno-al-tema/"
   kind: page
   new_tab: false
   children:
   - title: Le projet
+    slug: le-projet
     target: "/es/en-torno-al-tema/le-projet/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/en-torno-al-tema/le-projet"
     file: content/es/pages/en-torno-al-tema/le-projet/_index.html
+  descendants_targets:
+  - "/es/en-torno-al-tema/le-projet/"
   path: "/pages/en-torno-al-tema"
   file: content/es/pages/en-torno-al-tema/_index.html
 

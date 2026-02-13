@@ -3,8 +3,10 @@ title: baseline
 items:
 - title: Parce qu'on sait que les démarches administratives, c'est la D, on casse
     la paperasse pour vous aider !
+  slug: parce-qu-on-sait-que-les-demarches-administratives-c-est-la-d-on-casse-la-paperasse-pour-vous-aider
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 

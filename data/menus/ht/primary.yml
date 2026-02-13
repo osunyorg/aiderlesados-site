@@ -2,186 +2,259 @@
 title: Menu principal
 items:
 - title: Temwayaj
+  slug: temwayaj
   target: "/ht/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/ht/posts/_index.html
 - title: Équipe
+  slug: equipe
   target: "/ht/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/ht/persons/_index.html
 - title: " Òganizasyon yo"
+  slug: oganizasyon-yo
   target: "/ht/organisations/"
   kind: page
   new_tab: false
   children:
   - title: Les organisations d'Auvergne-Rhône-Alpes
+    slug: les-organisations-d-auvergne-rhone-alpes
     target: "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-dauvergne-rhone-alpes"
     file: content/ht/pages/organisations/les-organisations-dauvergne-rhone-alpes/_index.html
   - title: Les organisations du Centre-Val de Loire
+    slug: les-organisations-du-centre-val-de-loire
     target: "/ht/organisations/les-organisations-du-centre-val-de-loire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-du-centre-val-de-loire"
     file: content/ht/pages/organisations/les-organisations-du-centre-val-de-loire/_index.html
   - title: Les organisations de Bretagne
+    slug: les-organisations-de-bretagne
     target: "/ht/organisations/les-organisations-de-bretagne/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-bretagne"
     file: content/ht/pages/organisations/les-organisations-de-bretagne/_index.html
   - title: Les organisations d'Île-de-France
+    slug: les-organisations-d-ile-de-france
     target: "/ht/organisations/les-organisations-dile-de-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-dile-de-france"
     file: content/ht/pages/organisations/les-organisations-dile-de-france/_index.html
   - title: Les organisations de Bourgogne-Franche-Comté
+    slug: les-organisations-de-bourgogne-franche-comte
     target: "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-bourgogne-franche-comte"
     file: content/ht/pages/organisations/les-organisations-de-bourgogne-franche-comte/_index.html
   - title: Les organisations des Départements et Régions d’Outre-Mer
+    slug: les-organisations-des-departements-et-regions-d-outre-mer
     target: "/ht/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-des-departements-et-regions-doutre-mer"
     file: content/ht/pages/organisations/les-organisations-des-departements-et-regions-doutre-mer/_index.html
   - title: Les organisations de Corse
+    slug: les-organisations-de-corse
     target: "/ht/organisations/les-organisations-de-corse/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-corse"
     file: content/ht/pages/organisations/les-organisations-de-corse/_index.html
   - title: Organisations à travers la France
+    slug: organisations-a-travers-la-france
     target: "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-presentes-dans-toute-la-france"
     file: content/ht/pages/organisations/les-organisations-presentes-dans-toute-la-france/_index.html
   - title: Les organisations du Grand Est
+    slug: les-organisations-du-grand-est
     target: "/ht/organisations/les-organisations-de-la-region-grand-est/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-la-region-grand-est"
     file: content/ht/pages/organisations/les-organisations-de-la-region-grand-est/_index.html
   - title: Les organisations des Hauts-de-France
+    slug: les-organisations-des-hauts-de-france
     target: "/ht/organisations/les-organisations-des-hauts-de-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-des-hauts-de-france"
     file: content/ht/pages/organisations/les-organisations-des-hauts-de-france/_index.html
   - title: Les organisations de Normandie
+    slug: les-organisations-de-normandie
     target: "/ht/organisations/les-organisations-de-normandie/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-normandie"
     file: content/ht/pages/organisations/les-organisations-de-normandie/_index.html
   - title: Les organisations de Nouvelle-Aquitaine
+    slug: les-organisations-de-nouvelle-aquitaine
     target: "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-nouvelle-aquitaine"
     file: content/ht/pages/organisations/les-organisations-de-nouvelle-aquitaine/_index.html
   - title: Les organisations d'Occitanie
+    slug: les-organisations-d-occitanie
     target: "/ht/organisations/les-organisations-doccitanie/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-doccitanie"
     file: content/ht/pages/organisations/les-organisations-doccitanie/_index.html
   - title: Les organisations du Pays de la Loire
+    slug: les-organisations-du-pays-de-la-loire
     target: "/ht/organisations/les-organisations-du-pays-de-la-loire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-du-pays-de-la-loire"
     file: content/ht/pages/organisations/les-organisations-du-pays-de-la-loire/_index.html
   - title: Les organisations de Provence-Alpes-Côte d’Azur
+    slug: les-organisations-de-provence-alpes-cote-d-azur
     target: "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/organisations/les-organisations-de-provence-alpes-cote-dazur"
     file: content/ht/pages/organisations/les-organisations-de-provence-alpes-cote-dazur/_index.html
+  descendants_targets:
+  - "/ht/organisations/les-organisations-dauvergne-rhone-alpes/"
+  - "/ht/organisations/les-organisations-de-bourgogne-franche-comte/"
+  - "/ht/organisations/les-organisations-de-bretagne/"
+  - "/ht/organisations/les-organisations-de-corse/"
+  - "/ht/organisations/les-organisations-de-la-region-grand-est/"
+  - "/ht/organisations/les-organisations-de-normandie/"
+  - "/ht/organisations/les-organisations-de-nouvelle-aquitaine/"
+  - "/ht/organisations/les-organisations-de-provence-alpes-cote-dazur/"
+  - "/ht/organisations/les-organisations-des-departements-et-regions-doutre-mer/"
+  - "/ht/organisations/les-organisations-des-hauts-de-france/"
+  - "/ht/organisations/les-organisations-dile-de-france/"
+  - "/ht/organisations/les-organisations-doccitanie/"
+  - "/ht/organisations/les-organisations-du-centre-val-de-loire/"
+  - "/ht/organisations/les-organisations-du-pays-de-la-loire/"
+  - "/ht/organisations/les-organisations-presentes-dans-toute-la-france/"
   path: "/organizations"
   file: content/ht/organizations/_index.html
 - title: Pwosedi administratif yo
+  slug: pwosedi-administratif-yo
   target: "/ht/pwosedi-administratif/"
   kind: page
   new_tab: false
   children:
   - title: Demand pou yon kat rezidans/pèmi | carte/titre de séjour (refijye, apatrid
       oswa benefisyè pwoteksyon sipòtè)
+    slug: demand-pou-yon-kat-rezidans-pemi-carte-titre-de-sejour-refijye-apatrid-oswa-benefisye-pwoteksyon-sipote
     target: "/ht/pwosedi-administratif/demand-kat-rezidans-pemi/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pwosedi-administratif/demand-kat-rezidans-pemi"
     file: content/ht/pages/pwosedi-administratif/demand-kat-rezidans-pemi/_index.html
   - title: Deklarasyon revni ak peman taks
+    slug: deklarasyon-revni-ak-peman-taks
     target: "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pwosedi-administratif/deklarasyon-revni-ak-peman-taks"
     file: content/ht/pages/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/_index.html
   - title: Demand pou viza alontèm
+    slug: demand-pou-viza-alontem
     target: "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pwosedi-administratif/demand-pou-viza-alontem"
     file: content/ht/pages/pwosedi-administratif/demand-pou-viza-alontem/_index.html
   - title: Pèmi rezidans "lavi prive ak fanmi" (Carte de séjour « vie privée et familiale »)
+    slug: pemi-rezidans-lavi-prive-ak-fanmi-carte-de-sejour-vie-privee-et-familiale
     target: "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi"
     file: content/ht/pages/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/_index.html
+  descendants_targets:
+  - "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
+  - "/ht/pwosedi-administratif/demand-kat-rezidans-pemi/"
+  - "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
+  - "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
   path: "/pages/pwosedi-administratif"
   file: content/ht/pages/pwosedi-administratif/_index.html
 - title: Pi plis sou sijà a
+  slug: pi-plis-sou-sija-a
   target: "/ht/autour-du-sujet/"
   kind: page
   new_tab: false
   children:
   - title: Les ados aidants
+    slug: les-ados-aidants
     target: "/ht/autour-du-sujet/les-ados-aidants/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/autour-du-sujet/les-ados-aidants"
     file: content/ht/pages/autour-du-sujet/les-ados-aidants/_index.html
   - title: Pwojè a
+    slug: pwoje-a
     target: "/ht/autour-du-sujet/le-projet/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/autour-du-sujet/le-projet"
     file: content/ht/pages/autour-du-sujet/le-projet/_index.html
+  descendants_targets:
+  - "/ht/autour-du-sujet/le-projet/"
+  - "/ht/autour-du-sujet/les-ados-aidants/"
   path: "/pages/autour-du-sujet"
   file: content/ht/pages/autour-du-sujet/_index.html
 

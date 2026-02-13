@@ -2,31 +2,39 @@
 title: Informations légales
 items:
 - title: Información jurídica
+  slug: informacion-juridica
   target: "/es/mentions-legales/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/es/pages/mentions-legales/_index.html
 - title: Política de privacidad
+  slug: politica-de-privacidad
   target: "/es/politica-de-privacidad/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/politica-de-privacidad"
   file: content/es/pages/politica-de-privacidad/_index.html
 - title: Accesibilidad
+  slug: accesibilidad
   target: "/es/accesibilidad/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/accesibilidad"
   file: content/es/pages/accesibilidad/_index.html
 - title: Mapa del sitio
+  slug: mapa-del-sitio
   target: "/es/mapa-del-sitio/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mapa-del-sitio"
   file: content/es/pages/mapa-del-sitio/_index.html
 

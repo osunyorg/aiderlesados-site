@@ -2,46 +2,60 @@
 title: Main menu
 items:
 - title: Testimonials
+  slug: testimonials
   target: "/en/testimonials/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Organizations
+  slug: organizations
   target: "/en/organisms/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Administrative procedure
+  slug: administrative-procedure
   target: "/en/administrative-procedure/"
   kind: page
   new_tab: false
   children:
   - title: Annual Income Tax Return
+    slug: annual-income-tax-return
     target: "/en/administrative-procedure/annual-income-tax-return/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/administrative-procedure/annual-income-tax-return"
     file: content/en/pages/administrative-procedure/annual-income-tax-return/_index.html
   - title: Application for a residence permit (refugees, stateless persons or beneficiaries
       of subsidiary protection)
+    slug: application-for-a-residence-permit-refugees-stateless-persons-or-beneficiaries-of-subsidiary-protection
     target: "/en/administrative-procedure/demande-de-cartetitre-de-sejour/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/administrative-procedure/demande-de-cartetitre-de-sejour"
     file: content/en/pages/administrative-procedure/demande-de-cartetitre-de-sejour/_index.html
+  descendants_targets:
+  - "/en/administrative-procedure/annual-income-tax-return/"
+  - "/en/administrative-procedure/demande-de-cartetitre-de-sejour/"
   path: "/pages/administrative-procedure"
   file: content/en/pages/administrative-procedure/_index.html
 - title: Team
+  slug: team
   target: "/en/team/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
 

@@ -3,8 +3,10 @@ title: baseline
 items:
 - title: Because we know administrative procedures are a hassle, we clear the paperwork
     to help you.
+  slug: because-we-know-administrative-procedures-are-a-hassle-we-clear-the-paperwork-to-help-you
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 
