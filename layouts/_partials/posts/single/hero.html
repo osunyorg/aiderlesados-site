@@ -31,13 +31,13 @@
       <div class="hero-text">
         {{ if or .Params.image.credit }}
           <hgroup>
-            <h1>{{ partial "PrepareHTML" $title }}</h1>
+            <h1>{{ safeHTML $title }}</h1>
             {{ if .Params.image.credit }}
-              {{ partial "PrepareHTML" .Params.image.credit }}
+              {{ safeHTML .Params.image.credit }}
             {{ end }}
           </hgroup>
         {{ else }}
-          <h1>{{ partial "PrepareHTML" .Params.title }}</h1>
+          <h1>{{ safeHTML .Params.title }}</h1>
         {{ end }}
       </div>
     </div>
@@ -54,7 +54,7 @@
       {{ end }}
 
       {{ if $description }}
-        <p class="lead"><span>{{ partial "PrepareHTML" .Params.description }}</span></p>
+        <p class="lead"><span>{{ safeHTML .Params.description }}</span></p>
       {{ end }}
     </div>
   </div>
