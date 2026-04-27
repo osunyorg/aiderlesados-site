@@ -13,3 +13,2288 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/en/organizations/resf-reseau-education-sans-frontieres/index.html"
+to = "/en/organisms/resf-reseau-education-sans-frontieres/"
+
+[[redirects]]
+from = "/temoignages/corse/index.html"
+to = "/fr/temoignages/corse/"
+
+[[redirects]]
+from = "/en/organizations/singa-strasbourg/index.html"
+to = "/en/organisms/singa-strasbourg/"
+
+[[redirects]]
+from = "/organisations/singa-bordeaux/index.html"
+to = "/fr/organismes/singa-bordeaux/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-nouvelle-aquitaine/index.html"
+to = "/en/organisms/organizations-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-normandie/index.html"
+to = "/fr/organismes/les-organismes-de-normandie/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-bretagne/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bretagne/"
+
+[[redirects]]
+from = "/temoignages/2024-03-19-dionisa/index.html"
+to = "/fr/temoignages/2024-03-19-dionisa/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-occitanie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-occitanie/"
+
+[[redirects]]
+from = "/es/equipe/antoine-courcaud/index.html"
+to = "/es/equipo/antoine-courcaud/"
+
+[[redirects]]
+from = "/en/posts/index.html"
+to = "/en/testimonials/"
+
+[[redirects]]
+from = "/en/organizations/organizations-du-pays-de-la-loire/index.html"
+to = "/en/organisms/organizations-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-du-centre-val-de-loire/index.html"
+to = "/fr/organismes/les-organismes-du-centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-17eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-17eme-arrondissement/"
+
+[[redirects]]
+from = "/es/organisations/troyes/index.html"
+to = "/es/organisations/la-cimade-troyes/"
+
+[[redirects]]
+from = "/ht/organisations/la-camille-denfert-rochereau/index.html"
+to = "/ht/organisations/la-cimade-denfert-rochereau/"
+
+[[redirects]]
+from = "/fr/organizations/espace/index.html"
+to = "/fr/organismes/espace/"
+
+[[redirects]]
+from = "/fr/organisations/la-camille-denfert-rochereau/index.html"
+to = "/fr/organismes/la-cimade-denfert-rochereau/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-des-departements-et-regions-doutre-mer/index.html"
+to = "/en/organisms/organizations-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/demarches-administratives/demande-de-visa-longue-duree/index.html"
+to = "/fr/demarches-administratives/demande-de-visa-longue-duree/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-bordeaux/index.html"
+to = "/en/organisms/la-cimade-bordeaux/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-normandie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-normandie/"
+
+[[redirects]]
+from = "/temoignages/2024-03-19-sherda/index.html"
+to = "/fr/temoignages/2024-03-19-rebecca/"
+
+[[redirects]]
+from = "/en/organizations/ccas-montpellier/index.html"
+to = "/en/organisms/ccas-montpellier/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/ht/lucas-le-goff/index.html"
+to = "/ht/equipe/lucas-le-goff/"
+
+[[redirects]]
+from = "/es/organisations/cimade-cayenne/index.html"
+to = "/es/organisations/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-toulouse/index.html"
+to = "/fr/organismes/ccas-toulouse/"
+
+[[redirects]]
+from = "/fr/organismes/cimade-orleans/index.html"
+to = "/fr/organismes/la-cimade-orleans/"
+
+[[redirects]]
+from = "/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/index.html"
+to = "/fr/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/"
+
+[[redirects]]
+from = "/organisations/singa-lille/index.html"
+to = "/fr/organismes/singa-lille/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-villeurbanne/index.html"
+to = "/fr/organismes/la-cimade-villeurbanne/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-touloun/index.html"
+to = "/fr/organismes/la-cimade-toulon/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-paca-corse/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-paca-corse/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-montrouge/index.html"
+to = "/fr/organismes/la-cimade-montrouge/"
+
+[[redirects]]
+from = "/es/equipe/equipe-editoriale/index.html"
+to = "/es/equipo/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-baillif/index.html"
+to = "/fr/organismes/ccas-baillif/"
+
+[[redirects]]
+from = "/fr/organisations/les-centre-communal-daction-sociale-ccas/index.html"
+to = "/fr/organismes/les-centre-communal-d-action-sociale-ccas/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-avignon/index.html"
+to = "/fr/organismes/ccas-avignon/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-normandie/index.html"
+to = "/fr/organismes/les-organismes-de-normandie/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-normandie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-normandie/"
+
+[[redirects]]
+from = "/temoignages/auvergne-rhone-alpes/index.html"
+to = "/fr/temoignages/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-grand-est/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-grand-est/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-nantes/index.html"
+to = "/fr/organismes/la-cimade-nantes/"
+
+[[redirects]]
+from = "/fr/organisations/singa-valence/index.html"
+to = "/fr/organismes/singa-valence/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-grenoble/index.html"
+to = "/fr/organismes/la-cimade-grenoble/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-paca-corse/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-paca-corse/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-rennes/index.html"
+to = "/fr/organismes/la-cimade-rennes/"
+
+[[redirects]]
+from = "/en/organizations/ccas-marseille/index.html"
+to = "/en/organisms/ccas-marseille/"
+
+[[redirects]]
+from = "/organisations/singa-marseille/index.html"
+to = "/fr/organismes/singa-marseille/"
+
+[[redirects]]
+from = "/temoignages/2024-03-29-nehemia/index.html"
+to = "/fr/temoignages/2024-04-10-aurelie/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-vp-ville-de-paris/index.html"
+to = "/fr/organismes/ccas-v-p-ville-de-paris/"
+
+[[redirects]]
+from = "/fr/organizations/singa-toulouse/index.html"
+to = "/fr/organismes/singa-toulouse/"
+
+[[redirects]]
+from = "/temoignages/grand-est/index.html"
+to = "/fr/temoignages/grand-est/"
+
+[[redirects]]
+from = "/temoignages/hauts-de-france/index.html"
+to = "/fr/temoignages/hauts-de-france/"
+
+[[redirects]]
+from = "/autour-du-sujet/les-ados-aidants/index.html"
+to = "/fr/autour-du-sujet/les-ados-aidants/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-corse/index.html"
+to = "/en/organisms/organizations-de-corse/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-lille/index.html"
+to = "/fr/organismes/la-cimade-lille/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-corse/index.html"
+to = "/fr/organismes/les-organismes-de-corse/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-angers/index.html"
+to = "/fr/organismes/ccas-angers/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-saint-etienne-adultes/index.html"
+to = "/fr/organismes/la-cimade-saint-etienne-adultes/"
+
+[[redirects]]
+from = "/fr/organismes/dans-toute-la-france/index.html"
+to = "/fr/organismes/categories/dans-toute-la-france/"
+
+[[redirects]]
+from = "/en/organizations/espace/index.html"
+to = "/en/organisms/espace/"
+
+[[redirects]]
+from = "/es/organisations/ccas-paris-9eme/index.html"
+to = "/es/organisations/ccas-paris-9eme-arrondissement/"
+
+[[redirects]]
+from = "/es/organisations/la-cimade-touloun/index.html"
+to = "/es/organisations/la-cimade-toulon/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-11eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-11eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-montpellier/index.html"
+to = "/fr/organismes/la-cimade-montpellier/"
+
+[[redirects]]
+from = "/temoignages/occitanie/index.html"
+to = "/fr/temoignages/occitanie/"
+
+[[redirects]]
+from = "/es/actualites/index.html"
+to = "/es/testimonios/"
+
+[[redirects]]
+from = "/demarches-administratives/index.html"
+to = "/fr/demarches-administratives/"
+
+[[redirects]]
+from = "/es/demarches-administratives/solicitud-de-autorizacion-de-residencia/index.html"
+to = "/es/tramites-administrativos/solicitud-de-autorizacion-de-residencia/"
+
+[[redirects]]
+from = "/en/organizations/singa-valence/index.html"
+to = "/en/organisms/singa-valence/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-dile-de-france/index.html"
+to = "/fr/organismes/les-organismes-dile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-bayonne/index.html"
+to = "/fr/organismes/ccas-bayonne/"
+
+[[redirects]]
+from = "/actualites/departements-et-regions-doutre-mer/index.html"
+to = "/fr/temoignages/departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/es/organisations/ccas-vp-ville-de-paris/index.html"
+to = "/es/organisations/ccas-v-p-ville-de-paris/"
+
+[[redirects]]
+from = "/ht/organisations/cimade-orleans/index.html"
+to = "/ht/organisations/la-cimade-orleans/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-montpellier/index.html"
+to = "/fr/organismes/ccas-montpellier/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-normandie/index.html"
+to = "/fr/organismes/les-organismes-de-normandie/"
+
+[[redirects]]
+from = "/en/organizations/ccas-lille/index.html"
+to = "/en/organisms/ccas-lille/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-5eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-5eme-arrondissement/"
+
+[[redirects]]
+from = "/en/organizations/organizations-presentes-dans-toute-la-france/index.html"
+to = "/en/organisms/organizations-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organismes/grand-est/index.html"
+to = "/fr/organismes/categories/grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-poitiers/index.html"
+to = "/fr/organismes/ccas-poitiers/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-provence-alpes-cote-dazur/index.html"
+to = "/en/organisms/organizations-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-hauts-de-france/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-avon/index.html"
+to = "/fr/organismes/ccas-avon/"
+
+[[redirects]]
+from = "/en/organizations/les-organizations-de-la-region-grand-est/index.html"
+to = "/en/organisms/les-organizations-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/fr/organismes/ccas-paris-9eme/index.html"
+to = "/fr/organismes/ccas-paris-9eme-arrondissement/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-occitanie/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-nancy/index.html"
+to = "/fr/organismes/la-cimade-nancy/"
+
+[[redirects]]
+from = "/ht/organisations/ccas-les-anses-darlets/index.html"
+to = "/ht/organisations/ccas-les-anses-d-arlets/"
+
+[[redirects]]
+from = "/fr/organisations/france-terre-dasile/index.html"
+to = "/fr/organismes/france-terre-d-asile/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/ht/organisations/ccas-paris-9eme/index.html"
+to = "/ht/organisations/ccas-paris-9eme-arrondissement/"
+
+[[redirects]]
+from = "/organisations/les-organisations-dauvergne-rhone-alpes/index.html"
+to = "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-strasbourg/index.html"
+to = "/fr/organismes/ccas-strasbourg/"
+
+[[redirects]]
+from = "/equipe/mathis-dumon/index.html"
+to = "/fr/equipe/mathis-dumon/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-besancon/index.html"
+to = "/fr/organismes/ccas-besancon/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-la-reunion-saint-louis/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-louis/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-12eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-12eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-la-trinte/index.html"
+to = "/fr/organismes/ccas-la-trinte/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-doccitanie/index.html"
+to = "/fr/organismes/les-organismes-doccitanie/"
+
+[[redirects]]
+from = "/fr/organizations/sxm-nini/index.html"
+to = "/fr/organismes/sxm-nini/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-lille/index.html"
+to = "/en/organisms/la-cimade-lille/"
+
+[[redirects]]
+from = "/en/organizations/the-organizations-of-centre-val-de-loire/index.html"
+to = "/en/organisms/the-organizations-of-centre-val-de-loire/"
+
+[[redirects]]
+from = "/es/organisations/france-terre-dasile/index.html"
+to = "/es/organisations/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-saint-brieuc/index.html"
+to = "/fr/organismes/ccas-saint-brieuc/"
+
+[[redirects]]
+from = "/ht/organisations/ccas-vp-ville-de-paris/index.html"
+to = "/ht/organisations/ccas-v-p-ville-de-paris/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-niort/index.html"
+to = "/fr/organismes/ccas-niort/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-lyon/index.html"
+to = "/fr/organismes/ccas-lyon/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-marseille/index.html"
+to = "/fr/organismes/la-cimade-marseille/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-toulouse/index.html"
+to = "/fr/organismes/la-cimade-toulouse/"
+
+[[redirects]]
+from = "/fr/organisations/alefpa/index.html"
+to = "/fr/organismes/alefpa/"
+
+[[redirects]]
+from = "/fr/organisations/troyes/index.html"
+to = "/fr/organismes/la-cimade-troyes/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-nanterre/index.html"
+to = "/fr/organismes/ccas-nanterre/"
+
+[[redirects]]
+from = "/equipe/antoine-courcaud/index.html"
+to = "/fr/equipe/antoine-courcaud/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-bourges/index.html"
+to = "/fr/organismes/ccas-bourges/"
+
+[[redirects]]
+from = "/en/organizations-1/les-organizations-des-hauts-de-france/index.html"
+to = "/en/organisms/les-organizations-des-hauts-de-france/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-bretagne/index.html"
+to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-la-reunion-saint-pierre/index.html"
+to = "/en/organisms/la-cimade-la-reunion-saint-pierre/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-strasbourg/index.html"
+to = "/fr/organismes/ccas-strasbourg/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-7eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-7eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-cesson/index.html"
+to = "/fr/organismes/ccas-cesson/"
+
+[[redirects]]
+from = "/temoignages/bretagne/index.html"
+to = "/fr/temoignages/bretagne/"
+
+[[redirects]]
+from = "/ht/demarches-administratives/declaration-de-revenus-et-paiement-des-impots/index.html"
+to = "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-corse/index.html"
+to = "/fr/organismes/les-organismes-de-corse/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/temoignages/normandie/index.html"
+to = "/fr/temoignages/normandie/"
+
+[[redirects]]
+from = "/fr/organismes/ccas-vp-ville-de-paris/index.html"
+to = "/fr/organismes/ccas-v-p-ville-de-paris/"
+
+[[redirects]]
+from = "/actualites/grand-est/index.html"
+to = "/fr/temoignages/grand-est/"
+
+[[redirects]]
+from = "/ht/organisations/cimade-cayenne/index.html"
+to = "/ht/organisations/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/fr/temoignages/2024-03-20-aurelie/index.html"
+to = "/fr/temoignages/2024-04-10-aurelie/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/la-cimade/index.html"
+to = "/fr/organismes/la-cimade/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-laval/index.html"
+to = "/fr/organismes/ccas-laval/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-gosier/index.html"
+to = "/fr/organismes/ccas-le-gosier/"
+
+[[redirects]]
+from = "/temoignages/centre-val-de-loire/index.html"
+to = "/fr/temoignages/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-chambery/index.html"
+to = "/fr/organismes/la-cimade-chambery/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-toulouse/index.html"
+to = "/en/organisms/la-cimade-toulouse/"
+
+[[redirects]]
+from = "/equipe/nehemia-telusma/index.html"
+to = "/fr/equipe/nehemia-telusma/"
+
+[[redirects]]
+from = "/organisations/cada-de-blois/index.html"
+to = "/fr/organismes/cada-de-blois/"
+
+[[redirects]]
+from = "/en/organizations/sxm-nini/index.html"
+to = "/en/organisms/sxm-nini/"
+
+[[redirects]]
+from = "/es/organisations/cimade-orleans/index.html"
+to = "/es/organisations/la-cimade-orleans/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-pau/index.html"
+to = "/fr/organismes/la-cimade-pau/"
+
+[[redirects]]
+from = "/fr/organismes/hauts-de-france/index.html"
+to = "/fr/organismes/categories/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-ducos/index.html"
+to = "/fr/organismes/ccas-ducos/"
+
+[[redirects]]
+from = "/temoignages/pays-de-la-loire/index.html"
+to = "/fr/temoignages/pays-de-la-loire/"
+
+[[redirects]]
+from = "/temoignages/2024-03-20-nehemia/index.html"
+to = "/fr/temoignages/2024-04-10-aurelie/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-saint-francois/index.html"
+to = "/fr/organismes/ccas-saint-francois/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-bordeaux/index.html"
+to = "/fr/organismes/ccas-bordeaux/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-paca-corse/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-paca-corse/"
+
+[[redirects]]
+from = "/actualites/occitanie/index.html"
+to = "/fr/temoignages/occitanie/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-la-reunion-saint-louis/index.html"
+to = "/en/organisms/la-cimade-la-reunion-saint-louis/"
+
+[[redirects]]
+from = "/fr/organizations/resf-reseau-education-sans-frontieres/index.html"
+to = "/fr/organismes/resf-reseau-education-sans-frontieres/"
+
+[[redirects]]
+from = "/demarches-administratives/demande-de-cartetitre-de-sejour/index.html"
+to = "/fr/demarches-administratives/demande-de-cartetitre-de-sejour/"
+
+[[redirects]]
+from = "/fr/organisations/cimade-cergy/index.html"
+to = "/fr/organismes/la-cimade-cergy/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-riviere-salee/index.html"
+to = "/fr/organismes/ccas-riviere-salee/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-arras/index.html"
+to = "/fr/organismes/ccas-arras/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-9eme/index.html"
+to = "/fr/organismes/ccas-paris-9eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/singa-lyon/index.html"
+to = "/fr/organismes/singa-lyon/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/organizations/singa-marseille/index.html"
+to = "/en/organisms/singa-marseille/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-nice/index.html"
+to = "/fr/organismes/ccas-nice/"
+
+[[redirects]]
+from = "/equipe/ayline-travers/index.html"
+to = "/fr/equipe/ayline-travers/"
+
+[[redirects]]
+from = "/fr/organismes/ile-de-france/index.html"
+to = "/fr/organismes/categories/ile-de-france/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-strasbourg/index.html"
+to = "/fr/organismes/la-cimade-strasbourg/"
+
+[[redirects]]
+from = "/les-organisations-de-corse/index.html"
+to = "/fr/organismes/les-organismes-de-corse/"
+
+[[redirects]]
+from = "/actualites/2024-03-29-syndie/index.html"
+to = "/fr/temoignages/2024-04-09-leah/"
+
+[[redirects]]
+from = "/fr/organizations/index.html"
+to = "/fr/organismes/"
+
+[[redirects]]
+from = "/fr/organisations/resf-reseau-education-sans-frontieres/index.html"
+to = "/fr/organismes/resf-reseau-education-sans-frontieres/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-1eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-1er-arrondissement/"
+
+[[redirects]]
+from = "/en/organizations/cada-de-blois/index.html"
+to = "/en/organisms/cada-de-blois/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade/index.html"
+to = "/en/organisms/la-cimade/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-marseille/index.html"
+to = "/en/organisms/la-cimade-marseille/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-saint-malo/index.html"
+to = "/fr/organismes/la-cimade-saint-malo/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-la-rochelle/index.html"
+to = "/fr/organismes/la-cimade-la-rochelle/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-sainte-rose/index.html"
+to = "/fr/organismes/ccas-sainte-rose/"
+
+[[redirects]]
+from = "/fr/organismes/ccas-paris-1eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-1er-arrondissement/"
+
+[[redirects]]
+from = "/organisations/les-organisations-du-pays-de-la-loire/index.html"
+to = "/fr/organismes/les-organismes-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/organisations/les-organisations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-la-region-grand-est/index.html"
+to = "/fr/organismes/les-organismes-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/organisations/les-organisations-du-centre-val-de-loire/index.html"
+to = "/fr/organismes/les-organismes-du-centre-val-de-loire/"
+
+[[redirects]]
+from = "/les-organisations-dile-de-france/index.html"
+to = "/fr/organismes/les-organismes-dile-de-france/"
+
+[[redirects]]
+from = "/actualites/centre-val-de-loire/index.html"
+to = "/fr/temoignages/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-lille/index.html"
+to = "/fr/organismes/ccas-lille/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-provence-alpes-cote-dazur/index.html"
+to = "/en/organisms/organizations-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/organisations/france-services/index.html"
+to = "/fr/organismes/france-services/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-grand-est/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-morne-rouge/index.html"
+to = "/fr/organismes/ccas-le-morne-rouge/"
+
+[[redirects]]
+from = "/en/organizations/les-organizations-des-hauts-de-france/index.html"
+to = "/en/organisms/les-organizations-des-hauts-de-france/"
+
+[[redirects]]
+from = "/organisations/singa-paris/index.html"
+to = "/fr/organismes/singa-paris/"
+
+[[redirects]]
+from = "/en/organisms/cimade-cayenne/index.html"
+to = "/en/organisms/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/ht/organisations/la-cimade-touloun/index.html"
+to = "/ht/organisations/la-cimade-toulon/"
+
+[[redirects]]
+from = "/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/index.html"
+to = "/fr/demarches-administratives/carte-de-sejour-vie-privee-et-familiale/"
+
+[[redirects]]
+from = "/les-organisations-dauvergne-rhone-alpes/index.html"
+to = "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-paris/index.html"
+to = "/fr/organismes/la-cimade-paris-luxembourg/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-20eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-20eme-arrondissement/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-ocean-indien/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-ocean-indien/"
+
+[[redirects]]
+from = "/fr/organisations/les-organizations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-montpellier/index.html"
+to = "/fr/organismes/la-cimade-montpellier/"
+
+[[redirects]]
+from = "/actualites/dans-toute-la-france/index.html"
+to = "/fr/temoignages/dans-toute-la-france/"
+
+[[redirects]]
+from = "/es/plan-du-site/index.html"
+to = "/es/mapa-del-sitio/"
+
+[[redirects]]
+from = "/fr/organizations/singa-paris/index.html"
+to = "/fr/organismes/singa-paris/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-plaisir/index.html"
+to = "/fr/organismes/la-cimade-plaisir/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-bretagne/index.html"
+to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-lens/index.html"
+to = "/fr/organismes/la-cimade-lens/"
+
+[[redirects]]
+from = "/actualites/bretagne/index.html"
+to = "/fr/temoignages/bretagne/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-doccitanie/index.html"
+to = "/fr/organismes/les-organismes-doccitanie/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-lyon/index.html"
+to = "/fr/organismes/la-cimade-lyon/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-19eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-19eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/cimade-orleans/index.html"
+to = "/fr/organismes/la-cimade-orleans/"
+
+[[redirects]]
+from = "/fr/organisations/singa-strasbourg/index.html"
+to = "/fr/organismes/singa-strasbourg/"
+
+[[redirects]]
+from = "/actualites/hauts-de-france/index.html"
+to = "/fr/temoignages/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-la-roche-sur-yon/index.html"
+to = "/fr/organismes/ccas-la-roche-sur-yon/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-montpellier/index.html"
+to = "/en/organisms/la-cimade-montpellier/"
+
+[[redirects]]
+from = "/es/equipe/ayline-travers/index.html"
+to = "/es/equipo/ayline-travers/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-nice/index.html"
+to = "/fr/organismes/ccas-nice/"
+
+[[redirects]]
+from = "/actualites/pays-de-la-loire/index.html"
+to = "/fr/temoignages/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organismes/normandie/index.html"
+to = "/fr/organismes/categories/normandie/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-la-reunion-saint-denis/index.html"
+to = "/en/organisms/la-cimade-la-reunion-saint-denis/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-strasbourg/index.html"
+to = "/en/organisms/la-cimade-strasbourg/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-dile-de-france/index.html"
+to = "/fr/organismes/les-organismes-dile-de-france/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-provence-alpes-cote-dazur/index.html"
+to = "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-chelles/index.html"
+to = "/fr/organismes/ccas-chelles/"
+
+[[redirects]]
+from = "/temoignages/2024-03-29-dionisa/index.html"
+to = "/fr/temoignages/2024-03-19-dionisa/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-marin/index.html"
+to = "/fr/organismes/ccas-le-marin/"
+
+[[redirects]]
+from = "/en/organisms/france-terre-dasile/index.html"
+to = "/en/organisms/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-angouleme/index.html"
+to = "/fr/organismes/ccas-angouleme/"
+
+[[redirects]]
+from = "/en/organizations-1/les-organizations-de-la-region-grand-est/index.html"
+to = "/en/organisms/les-organizations-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/organisations/espace/index.html"
+to = "/fr/organismes/espace/"
+
+[[redirects]]
+from = "/fr/organizations/cada-de-blois/index.html"
+to = "/fr/organismes/cada-de-blois/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-provence-alpes-cote-dazur/index.html"
+to = "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-amiens/index.html"
+to = "/fr/organismes/la-cimade-amiens/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-hauts-de-france/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-hauts-de-france/"
+
+[[redirects]]
+from = "/es/equipe/lucas-le-goff/index.html"
+to = "/es/equipo/lucas-le-goff/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-versailles/index.html"
+to = "/fr/organismes/la-cimade-versailles/"
+
+[[redirects]]
+from = "/temoignages/departements-et-regions-doutre-mer/index.html"
+to = "/fr/temoignages/departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/fr/organisations/cimade-pointe-a-pitre/index.html"
+to = "/fr/organismes/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris/index.html"
+to = "/fr/organismes/ccas-paris/"
+
+[[redirects]]
+from = "/fr/organisations/sxm-nini/index.html"
+to = "/fr/organismes/sxm-nini/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-paris-belleville/index.html"
+to = "/fr/organismes/la-cimade-paris-belleville/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-saint-joseph/index.html"
+to = "/fr/organismes/ccas-saint-joseph/"
+
+[[redirects]]
+from = "/en/organizations/ccas-nice/index.html"
+to = "/en/organisms/ccas-nice/"
+
+[[redirects]]
+from = "/fr/organismes/troyes/index.html"
+to = "/fr/organismes/la-cimade-troyes/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-bretagne/index.html"
+to = "/en/organisms/organizations-de-bretagne/"
+
+[[redirects]]
+from = "/actualites/bourgogne-franche-comte/index.html"
+to = "/fr/temoignages/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-brest/index.html"
+to = "/fr/organismes/la-cimade-brest/"
+
+[[redirects]]
+from = "/en/organizations-1/the-organizations-of-centre-val-de-loire/index.html"
+to = "/en/organisms/the-organizations-of-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/organizations/organizations-des-departements-et-regions-doutre-mer/index.html"
+to = "/en/organisms/organizations-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-perigueux/index.html"
+to = "/fr/organismes/ccas-perigueux/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-10eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-10eme-arrondissement/"
+
+[[redirects]]
+from = "/temoignages/ile-de-france/index.html"
+to = "/fr/temoignages/ile-de-france/"
+
+[[redirects]]
+from = "/temoignages/2024-03-29-syndie/index.html"
+to = "/fr/temoignages/2024-04-09-leah/"
+
+[[redirects]]
+from = "/es/autour-du-sujet/index.html"
+to = "/es/en-torno-al-tema/"
+
+[[redirects]]
+from = "/en/organizations/index.html"
+to = "/en/organisms/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-des-departements-et-regions-doutre-mer/index.html"
+to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-13eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-13eme-arrondissement/"
+
+[[redirects]]
+from = "/en/organizations/singa-bordeaux/index.html"
+to = "/en/organisms/singa-bordeaux/"
+
+[[redirects]]
+from = "/en/organizations/singa-lyon/index.html"
+to = "/en/organisms/singa-lyon/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-normandie/index.html"
+to = "/fr/organismes/les-organismes-de-normandie/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-lyon/index.html"
+to = "/fr/organismes/ccas-lyon/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-des-hauts-de-france/index.html"
+to = "/fr/organismes/les-organismes-des-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/singa-nantes/index.html"
+to = "/fr/organismes/singa-nantes/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-reims/index.html"
+to = "/fr/organismes/la-cimade-reims/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-vannes/index.html"
+to = "/fr/organismes/la-cimade-vannes/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-nouvelle-aquitaine/index.html"
+to = "/en/organisms/organizations-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organismes/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-cannes/index.html"
+to = "/fr/organismes/ccas-cannes/"
+
+[[redirects]]
+from = "/fr/organizations/singa-lyon/index.html"
+to = "/fr/organismes/singa-lyon/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-bretagne/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-bretagne/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-bourgogne-franche-comte/index.html"
+to = "/en/organisms/organizations-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-ajaccio/index.html"
+to = "/fr/organismes/ccas-ajaccio/"
+
+[[redirects]]
+from = "/les-organisations-des-departements-et-regions-doutre-mer/index.html"
+to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/les-organisations-de-bretagne/index.html"
+to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-3eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-3eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-4eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-4eme-arrondissement/"
+
+[[redirects]]
+from = "/organisations/les-organisations-des-hauts-de-france/index.html"
+to = "/fr/organismes/les-organismes-des-hauts-de-france/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-paris/index.html"
+to = "/en/organisms/la-cimade-paris/"
+
+[[redirects]]
+from = "/temoignages/bourgogne-franche-comte/index.html"
+to = "/fr/temoignages/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-chateauroux/index.html"
+to = "/fr/organismes/ccas-chateauroux/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-corse/index.html"
+to = "/en/organisms/organizations-de-corse/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-doccitanie/index.html"
+to = "/fr/organismes/les-organismes-doccitanie/"
+
+[[redirects]]
+from = "/organisations/sxm-nini/index.html"
+to = "/fr/organismes/sxm-nini/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-du-pays-de-la-loire/index.html"
+to = "/en/organisms/organizations-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-mayotte/index.html"
+to = "/en/organisms/la-cimade-mayotte/"
+
+[[redirects]]
+from = "/organisations/france-services/index.html"
+to = "/fr/organismes/france-services/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-mayotte/index.html"
+to = "/fr/organismes/la-cimade-mayotte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-2eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-2eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/singa-lille/index.html"
+to = "/fr/organismes/singa-lille/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-ocean-indien/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-ocean-indien/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/organismes/pays-de-la-loire/index.html"
+to = "/fr/organismes/categories/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-du-pays-de-la-loire/index.html"
+to = "/fr/organismes/les-organismes-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organismes/la-cimade-paris/index.html"
+to = "/fr/organismes/la-cimade-paris-luxembourg/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-bretagne/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-paris-batignolles/index.html"
+to = "/fr/organismes/la-cimade-paris-batignolles/"
+
+[[redirects]]
+from = "/en/organizations/organizations-doccitanie/index.html"
+to = "/en/organisms/organizations-doccitanie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-annecy/index.html"
+to = "/fr/organismes/la-cimade-annecy/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-paris/index.html"
+to = "/fr/organismes/la-cimade-paris-luxembourg/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-les-anses-darlets/index.html"
+to = "/fr/organismes/ccas-les-anses-d-arlets/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-nantes/index.html"
+to = "/fr/organismes/la-cimade-nantes/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-montreuil/index.html"
+to = "/fr/organismes/la-cimade-montreuil/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-doccitanie/index.html"
+to = "/en/organisms/organizations-doccitanie/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-normandie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-normandie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-metz/index.html"
+to = "/fr/organismes/la-cimade-metz/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-occitanie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-occitanie/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-la-reunion-le-port/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-le-port/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/cada-de-blois/index.html"
+to = "/fr/organismes/cada-de-blois/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-marseille/index.html"
+to = "/fr/organismes/la-cimade-marseille/"
+
+[[redirects]]
+from = "/ht/organisations/cimade-cergy/index.html"
+to = "/ht/organisations/la-cimade-cergy/"
+
+[[redirects]]
+from = "/fr/chu/index.html"
+to = "/fr/cgu/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-marseille/index.html"
+to = "/fr/organismes/ccas-marseille/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/index.html"
+to = "/fr/organismes/"
+
+[[redirects]]
+from = "/ht/ayline-travers/index.html"
+to = "/ht/equipe/ayline-travers/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-poitiers/index.html"
+to = "/fr/organismes/la-cimade-poitiers/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-le-mans/index.html"
+to = "/fr/organismes/la-cimade-le-mans/"
+
+[[redirects]]
+from = "/temoignages/2024-03-29-sherda/index.html"
+to = "/fr/temoignages/2024-03-19-rebecca/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-du-centre-val-de-loire/index.html"
+to = "/fr/organismes/les-organismes-du-centre-val-de-loire/"
+
+[[redirects]]
+from = "/es/equipe/index.html"
+to = "/es/equipo/"
+
+[[redirects]]
+from = "/temoignages/nouvelle-aquitaine/index.html"
+to = "/fr/temoignages/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-du-centre-val-de-loire/index.html"
+to = "/fr/organismes/les-organismes-du-centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organismes/nouvelle-aquitaine/index.html"
+to = "/fr/organismes/categories/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organismes/centre-val-de-loire/index.html"
+to = "/fr/organismes/categories/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-la-reunion-saint-louis/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-louis/"
+
+[[redirects]]
+from = "/fr/organismes/ccas-les-anses-darlets/index.html"
+to = "/fr/organismes/ccas-les-anses-d-arlets/"
+
+[[redirects]]
+from = "/ht/demarches-administratives/demand-pou-viza-alontem/index.html"
+to = "/ht/pwosedi-administratif/demand-pou-viza-alontem/"
+
+[[redirects]]
+from = "/es/equipe/nehemia-telusma/index.html"
+to = "/es/equipo/nehemia-telusma/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-bretagne/index.html"
+to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/fr/organismes/corse/index.html"
+to = "/fr/organismes/categories/corse/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-dijon/index.html"
+to = "/fr/organismes/la-cimade-dijon/"
+
+[[redirects]]
+from = "/fr/organismes/les-centre-communal-daction-sociale-ccas/index.html"
+to = "/fr/organismes/les-centre-communal-d-action-sociale-ccas/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-bretagne/index.html"
+to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/actualites/2024-03-29-sherda/index.html"
+to = "/fr/temoignages/2024-03-19-rebecca/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organismes/cimade-cergy/index.html"
+to = "/fr/organismes/la-cimade-cergy/"
+
+[[redirects]]
+from = "/fr/organismes/provence-alpes-cote-d-azur/index.html"
+to = "/fr/organismes/categories/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/temoignages/dans-toute-la-france/index.html"
+to = "/fr/temoignages/dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organismes/departements-et-regions-d-outre-mer/index.html"
+to = "/fr/organismes/categories/departements-et-regions-d-outre-mer/"
+
+[[redirects]]
+from = "/fr/organizations/singa-bordeaux/index.html"
+to = "/fr/organismes/singa-bordeaux/"
+
+[[redirects]]
+from = "/ht/organisations/cimade-pointe-a-pitre/index.html"
+to = "/ht/organisations/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/ht/equipe-editoriale/index.html"
+to = "/ht/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/es/organisations/cimade-pointe-a-pitre/index.html"
+to = "/es/organisations/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-les-abymes/index.html"
+to = "/fr/organismes/ccas-les-abymes/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-nantes/index.html"
+to = "/en/organisms/la-cimade-nantes/"
+
+[[redirects]]
+from = "/es/accessibilite/index.html"
+to = "/es/accesibilidad/"
+
+[[redirects]]
+from = "/en/organizations/singa-toulouse/index.html"
+to = "/en/organisms/singa-toulouse/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-8eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-8eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-saint-denis/index.html"
+to = "/fr/organismes/ccas-saint-denis/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-dile-de-france/index.html"
+to = "/en/organisms/organizations-dile-de-france/"
+
+[[redirects]]
+from = "/organisations/singa-lyon/index.html"
+to = "/fr/organismes/singa-lyon/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-18eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-18eme-arrondissement/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-presentes-dans-toute-la-france/index.html"
+to = "/en/organisms/organizations-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-tours/index.html"
+to = "/fr/organismes/ccas-tours/"
+
+[[redirects]]
+from = "/en/organizations/singa-paris/index.html"
+to = "/en/organisms/singa-paris/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-des-pays-de-la-loire/"
+
+[[redirects]]
+from = "/es/organisations/la-camille-denfert-rochereau/index.html"
+to = "/es/organisations/la-cimade-denfert-rochereau/"
+
+[[redirects]]
+from = "/fr/organizations/france-services/index.html"
+to = "/fr/organismes/france-services/"
+
+[[redirects]]
+from = "/ht/organisations/troyes/index.html"
+to = "/ht/organisations/la-cimade-troyes/"
+
+[[redirects]]
+from = "/es/politique-de-confidentialite/index.html"
+to = "/es/politica-de-privacidad/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/ht/organisations/ccas-paris-1eme-arrondissement/index.html"
+to = "/ht/organisations/ccas-paris-1er-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-strasbourg/index.html"
+to = "/fr/organismes/la-cimade-strasbourg/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-corse/index.html"
+to = "/fr/organismes/les-organismes-de-corse/"
+
+[[redirects]]
+from = "/organisations/les-organisations-doccitanie/index.html"
+to = "/fr/organismes/les-organismes-doccitanie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-nice/index.html"
+to = "/fr/organismes/la-cimade-nice/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-brie-comte-robert/index.html"
+to = "/fr/organismes/ccas-brie-comte-robert/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-capesterre-belle-eau/index.html"
+to = "/fr/organismes/ccas-capesterre-belle-eau/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-vieux-habitants/index.html"
+to = "/fr/organismes/ccas-vieux-habitants/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-la-region-grand-est/index.html"
+to = "/fr/organismes/les-organismes-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/en/organizations/alefpa/index.html"
+to = "/en/organisms/alefpa/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-nantes/index.html"
+to = "/fr/organismes/ccas-nantes/"
+
+[[redirects]]
+from = "/actualites/nouvelle-aquitaine/index.html"
+to = "/fr/temoignages/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-hauts-de-france/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-nimes/index.html"
+to = "/fr/organismes/la-cimade-nimes/"
+
+[[redirects]]
+from = "/es/organisations/ccas-paris-1eme-arrondissement/index.html"
+to = "/es/organisations/ccas-paris-1er-arrondissement/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-rouen/index.html"
+to = "/fr/organismes/la-cimade-rouen/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-grand-est/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-grand-est/"
+
+[[redirects]]
+from = "/es/equipe/olivia-simonet/index.html"
+to = "/es/equipo/olivia-simonet/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-anse-bertrand/index.html"
+to = "/fr/organismes/ccas-anse-bertrand/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-aulnay-sous-bois/index.html"
+to = "/fr/organismes/la-cimade-aulnay-sous-bois/"
+
+[[redirects]]
+from = "/ht/organisations/france-terre-dasile/index.html"
+to = "/ht/organisations/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-la-reunion-saint-pierre/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-pierre/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-clermont-ferrand/index.html"
+to = "/fr/organismes/la-cimade-clermont-ferrand/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-la-region-grand-est/index.html"
+to = "/fr/organismes/les-organismes-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/espace/index.html"
+to = "/fr/organismes/espace/"
+
+[[redirects]]
+from = "/fr/temoignages/2024-03-19-sherda/index.html"
+to = "/fr/temoignages/2024-03-19-rebecca/"
+
+[[redirects]]
+from = "/fr/organizations/france-terre-dasile/index.html"
+to = "/fr/organismes/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-nantes/index.html"
+to = "/fr/organismes/ccas-nantes/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-bourgogne-franche-comte/index.html"
+to = "/en/organisms/organizations-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-belfort/index.html"
+to = "/fr/organismes/ccas-belfort/"
+
+[[redirects]]
+from = "/es/equipe/mathis-dumon/index.html"
+to = "/es/equipo/mathis-dumon/"
+
+[[redirects]]
+from = "/organisations/les-organisations-de-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/plan-du-site/cgu/index.html"
+to = "/fr/cgu/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade/index.html"
+to = "/fr/organismes/la-cimade/"
+
+[[redirects]]
+from = "/fr/organizations/singa-valence/index.html"
+to = "/fr/organismes/singa-valence/"
+
+[[redirects]]
+from = "/fr/organisations/singa-marseille/index.html"
+to = "/fr/organismes/singa-marseille/"
+
+[[redirects]]
+from = "/organisations/alefpa/index.html"
+to = "/fr/organismes/alefpa/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-ocean-indien/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-ocean-indien/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-ocean-indien/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-ocean-indien/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-bellefontaine/index.html"
+to = "/fr/organismes/ccas-bellefontaine/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/temoignages/"
+
+[[redirects]]
+from = "/ht/mathis-dumon/index.html"
+to = "/ht/equipe/mathis-dumon/"
+
+[[redirects]]
+from = "/autour-du-sujet/le-projet/index.html"
+to = "/fr/autour-du-sujet/le-projet/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-limoges/index.html"
+to = "/fr/organismes/ccas-limoges/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-la-reunion-le-port/index.html"
+to = "/en/organisms/la-cimade-la-reunion-le-port/"
+
+[[redirects]]
+from = "/organisations/les-organisations-des-departements-et-regions-doutre-mer/index.html"
+to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/ht/nehemia-telusma/index.html"
+to = "/ht/equipe/nehemia-telusma/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-toulouse/index.html"
+to = "/fr/organismes/la-cimade-toulouse/"
+
+[[redirects]]
+from = "/en/organizations-1/organizations-de-normandie/index.html"
+to = "/en/organisms/organizations-de-normandie/"
+
+[[redirects]]
+from = "/fr/organizations/cimade-pointe-a-pitre/index.html"
+to = "/fr/organismes/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organismes/la-cimade-touloun/index.html"
+to = "/fr/organismes/la-cimade-toulon/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-paris/index.html"
+to = "/fr/organismes/ccas-paris/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-dauvergne-rhone-alpes/index.html"
+to = "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/organizations/france-terre-dasile/index.html"
+to = "/en/organisms/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-dunkerque/index.html"
+to = "/fr/organismes/ccas-dunkerque/"
+
+[[redirects]]
+from = "/en/organisms/cimade-pointe-a-pitre/index.html"
+to = "/en/organisms/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-paca-corse/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-paca-corse/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-quimper/index.html"
+to = "/fr/organismes/ccas-quimper/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-des-hauts-de-france/index.html"
+to = "/fr/organismes/les-organismes-des-hauts-de-france/"
+
+[[redirects]]
+from = "/en/organizations-1/the-organizations-dauvergne-rhone-alpes/index.html"
+to = "/en/organisms/the-organizations-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-bretagne/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bretagne/"
+
+[[redirects]]
+from = "/actualites/ile-de-france/index.html"
+to = "/fr/temoignages/ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-chailly-en-biere/index.html"
+to = "/fr/organismes/ccas-chailly-en-biere/"
+
+[[redirects]]
+from = "/en/demarches-administratives/annual-income-tax-return/index.html"
+to = "/en/administrative-procedure/annual-income-tax-return/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-marseille/index.html"
+to = "/fr/organismes/ccas-marseille/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-nouvelle-caledonie/index.html"
+to = "/fr/organismes/ccas-nouvelle-caledonie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-bordeaux/index.html"
+to = "/fr/organismes/la-cimade-bordeaux/"
+
+[[redirects]]
+from = "/organisations/les-organisations-dile-de-france/index.html"
+to = "/fr/organismes/les-organismes-dile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-du-pays-de-la-loire/index.html"
+to = "/fr/organismes/les-organismes-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/organizations/the-organizations-dauvergne-rhone-alpes/index.html"
+to = "/en/organisms/the-organizations-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/es/autour-du-sujet/le-projet/index.html"
+to = "/es/en-torno-al-tema/le-projet/"
+
+[[redirects]]
+from = "/fr/organismes/france-terre-dasile/index.html"
+to = "/fr/organismes/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-lille/index.html"
+to = "/fr/organismes/la-cimade-lille/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-la-reunion-le-port/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-le-port/"
+
+[[redirects]]
+from = "/es/organisations/la-cimade-paris/index.html"
+to = "/es/organisations/la-cimade-paris-luxembourg/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-dile-de-france/index.html"
+to = "/fr/organismes/les-organismes-dile-de-france/"
+
+[[redirects]]
+from = "/fr/organismes/occitanie/index.html"
+to = "/fr/organismes/categories/occitanie/"
+
+[[redirects]]
+from = "/les-organisations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-corse/index.html"
+to = "/fr/organismes/les-organismes-de-corse/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-bordeaux/index.html"
+to = "/fr/organismes/ccas-bordeaux/"
+
+[[redirects]]
+from = "/en/organizations/singa-nantes/index.html"
+to = "/en/organisms/singa-nantes/"
+
+[[redirects]]
+from = "/es/organisations/cimade-cergy/index.html"
+to = "/es/organisations/la-cimade-cergy/"
+
+[[redirects]]
+from = "/actualites/provence-alpes-cote-dazur/index.html"
+to = "/fr/temoignages/provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-provence-alpes-cote-dazur/index.html"
+to = "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/en/organizations/france-services/index.html"
+to = "/en/organisms/france-services/"
+
+[[redirects]]
+from = "/en/organizations/ccas-paris/index.html"
+to = "/en/organisms/ccas-paris/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-bordeaux/index.html"
+to = "/fr/organismes/la-cimade-bordeaux/"
+
+[[redirects]]
+from = "/en/organizations/ccas-toulouse/index.html"
+to = "/en/organisms/ccas-toulouse/"
+
+[[redirects]]
+from = "/fr/organizations/singa-marseille/index.html"
+to = "/fr/organismes/singa-marseille/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-lorrain/index.html"
+to = "/fr/organismes/ccas-le-lorrain/"
+
+[[redirects]]
+from = "/organisations/singa-nantes/index.html"
+to = "/fr/organismes/singa-nantes/"
+
+[[redirects]]
+from = "/en/organizations/singa-lille/index.html"
+to = "/en/organisms/singa-lille/"
+
+[[redirects]]
+from = "/temoignages/provence-alpes-cote-dazur/index.html"
+to = "/fr/temoignages/provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/temoignages/index.html"
+to = "/fr/temoignages/"
+
+[[redirects]]
+from = "/fr/organismes/bourgogne-franche-comte/index.html"
+to = "/fr/organismes/categories/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/organisations/singa-strasbourg/index.html"
+to = "/fr/organismes/singa-strasbourg/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-des-departements-et-regions-doutre-mer/index.html"
+to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/organisations/france-terre-dasile/index.html"
+to = "/fr/organismes/france-terre-d-asile/"
+
+[[redirects]]
+from = "/fr/organismes/auvergne-rhone-alpes/index.html"
+to = "/fr/organismes/categories/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/ht/olivia-simonet/index.html"
+to = "/ht/equipe/olivia-simonet/"
+
+[[redirects]]
+from = "/ht/antoine-courcaud/index.html"
+to = "/ht/equipe/antoine-courcaud/"
+
+[[redirects]]
+from = "/fr/temoignages/2024-04-09-syndie/index.html"
+to = "/fr/temoignages/2024-04-09-leah/"
+
+[[redirects]]
+from = "/les-organisations-du-centre-val-de-loire/index.html"
+to = "/fr/organismes/les-organismes-du-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/organizations/la-cimade-nice/index.html"
+to = "/en/organisms/la-cimade-nice/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade/index.html"
+to = "/fr/organismes/la-cimade/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-du-pays-de-la-loire/index.html"
+to = "/fr/organismes/les-organismes-du-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-hauts-de-france/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/temoignages/2024-03-20-syndie/index.html"
+to = "/fr/temoignages/2024-04-09-leah/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/en/organizations/organizations-dile-de-france/index.html"
+to = "/en/organisms/organizations-dile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-robert/index.html"
+to = "/fr/organismes/ccas-le-robert/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-basse-terre/index.html"
+to = "/fr/organismes/ccas-basse-terre/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-dauvergne-rhone-alpes/index.html"
+to = "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organisations/cimade-cayenne/index.html"
+to = "/fr/organismes/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-saint-esprit/index.html"
+to = "/fr/organismes/ccas-saint-esprit/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-perpignan/index.html"
+to = "/fr/organismes/la-cimade-perpignan/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-dauvergne-rhone-alpes/index.html"
+to = "/fr/organismes/les-organismes-dauvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-normandie/index.html"
+to = "/en/organisms/organizations-de-normandie/"
+
+[[redirects]]
+from = "/en/organizations/cimade-pointe-a-pitre/index.html"
+to = "/en/organisms/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-bois-le-roi/index.html"
+to = "/fr/organismes/ccas-bois-le-roi/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/resf-reseau-education-sans-frontieres/index.html"
+to = "/fr/organismes/resf-reseau-education-sans-frontieres/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-massy/index.html"
+to = "/fr/organismes/la-cimade-massy/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-lille/index.html"
+to = "/fr/organismes/ccas-lille/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-normandie/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-normandie/"
+
+[[redirects]]
+from = "/en/organizations/ccas-strasbourg/index.html"
+to = "/en/organisms/ccas-strasbourg/"
+
+[[redirects]]
+from = "/actualites/auvergne-rhone-alpes/index.html"
+to = "/fr/temoignages/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-toulouse/index.html"
+to = "/fr/organismes/ccas-toulouse/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-saint-etienne-jeunes/index.html"
+to = "/fr/organismes/la-cimade-saint-etienne-jeunes/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-la-reunion-saint-pierre/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-pierre/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-16eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-16eme-arrondissement/"
+
+[[redirects]]
+from = "/actualites/normandie/index.html"
+to = "/fr/temoignages/normandie/"
+
+[[redirects]]
+from = "/equipe/olivia-simonet/index.html"
+to = "/fr/equipe/olivia-simonet/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-la-reunion-saint-denis/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-denis/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-pointe-a-pitre/index.html"
+to = "/fr/organismes/ccas-pointe-a-pitre/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organismes/cimade-pointe-a-pitre/index.html"
+to = "/fr/organismes/la-cimade-guadeloupe-pointe-a-pitre/"
+
+[[redirects]]
+from = "/equipe/lucas-le-goff/index.html"
+to = "/fr/equipe/lucas-le-goff/"
+
+[[redirects]]
+from = "/en/organizations/organizations-de-bretagne/index.html"
+to = "/en/organisms/organizations-de-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-15eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-15eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/les-organismes-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-baie-mahault/index.html"
+to = "/fr/organismes/ccas-baie-mahault/"
+
+[[redirects]]
+from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-occitanie/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-moule/index.html"
+to = "/fr/organismes/ccas-le-moule/"
+
+[[redirects]]
+from = "/fr/organisations/singa-bordeaux/index.html"
+to = "/fr/organismes/singa-bordeaux/"
+
+[[redirects]]
+from = "/es/organisations/ccas-les-anses-darlets/index.html"
+to = "/es/organisations/ccas-les-anses-d-arlets/"
+
+[[redirects]]
+from = "/ht/demarches-administratives/pemi-rezidans-lavi-prive-ak-fanmi/index.html"
+to = "/ht/pwosedi-administratif/pemi-rezidans-lavi-prive-ak-fanmi/"
+
+[[redirects]]
+from = "/organisations/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/singa-toulouse/index.html"
+to = "/fr/organismes/singa-toulouse/"
+
+[[redirects]]
+from = "/organisations/singa-valence/index.html"
+to = "/fr/organismes/singa-valence/"
+
+[[redirects]]
+from = "/fr/organizations/ccas-montpellier/index.html"
+to = "/fr/organismes/ccas-montpellier/"
+
+[[redirects]]
+from = "/fr/organizations/les-centre-communal-daction-sociale-ccas/index.html"
+to = "/fr/organismes/les-centre-communal-d-action-sociale-ccas/"
+
+[[redirects]]
+from = "/actualites/corse/index.html"
+to = "/fr/temoignages/corse/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-mayotte/index.html"
+to = "/fr/organismes/la-cimade-mayotte/"
+
+[[redirects]]
+from = "/en/organizations/cimade-cayenne/index.html"
+to = "/en/organisms/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/fr/organizations/cimade-cayenne/index.html"
+to = "/fr/organismes/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-de-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/les-organismes-de-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-argenteuil/index.html"
+to = "/fr/organismes/ccas-argenteuil/"
+
+[[redirects]]
+from = "/fr/organizations/singa-strasbourg/index.html"
+to = "/fr/organismes/singa-strasbourg/"
+
+[[redirects]]
+from = "/en/organizations/ccas-nantes/index.html"
+to = "/en/organisms/ccas-nantes/"
+
+[[redirects]]
+from = "/en/organizations/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/index.html"
+to = "/en/organisms/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-caen/index.html"
+to = "/fr/organismes/la-cimade-caen/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-calais/index.html"
+to = "/fr/organismes/ccas-calais/"
+
+[[redirects]]
+from = "/fr/organizations/singa-lille/index.html"
+to = "/fr/organismes/singa-lille/"
+
+[[redirects]]
+from = "/fr/organismes/les-organisations-des-hauts-de-france/index.html"
+to = "/fr/organismes/les-organismes-des-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organizations/singa-nantes/index.html"
+to = "/fr/organismes/singa-nantes/"
+
+[[redirects]]
+from = "/actualites/2024-03-29-nehemia/index.html"
+to = "/fr/temoignages/2024-04-10-aurelie/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-auxerre/index.html"
+to = "/fr/organismes/la-cimade-auxerre/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/ht/demarches-administratives/deklarasyon-revni-ak-peman-taks/index.html"
+to = "/ht/pwosedi-administratif/deklarasyon-revni-ak-peman-taks/"
+
+[[redirects]]
+from = "/fr/organisations/singa-paris/index.html"
+to = "/fr/organismes/singa-paris/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-taverny/index.html"
+to = "/fr/organismes/ccas-taverny/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-pointe-noire/index.html"
+to = "/fr/organismes/ccas-pointe-noire/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-grand-est/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-grand-est/"
+
+[[redirects]]
+from = "/ht/organisations/la-cimade-paris/index.html"
+to = "/ht/organisations/la-cimade-paris-luxembourg/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-cholet/index.html"
+to = "/fr/organismes/ccas-cholet/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-de-provence-alpes-cote-dazur/index.html"
+to = "/fr/organismes/les-organismes-de-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/autour-du-sujet/index.html"
+to = "/fr/autour-du-sujet/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-le-lamentin/index.html"
+to = "/fr/organismes/ccas-le-lamentin/"
+
+[[redirects]]
+from = "/en/organizations/ccas-bordeaux/index.html"
+to = "/en/organisms/ccas-bordeaux/"
+
+[[redirects]]
+from = "/fr/organismes/bretagne/index.html"
+to = "/fr/organismes/categories/bretagne/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-la-reunion-saint-denis/index.html"
+to = "/fr/organismes/la-cimade-la-reunion-saint-denis/"
+
+[[redirects]]
+from = "/fr/temoignages/2024-03-20-nehemia/index.html"
+to = "/fr/temoignages/2024-04-10-aurelie/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-des-departements-et-regions-doutre-mer/index.html"
+to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
+
+[[redirects]]
+from = "/fr/organizations/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/index.html"
+to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-paris-6eme-arrondissement/index.html"
+to = "/fr/organismes/ccas-paris-6eme-arrondissement/"
+
+[[redirects]]
+from = "/fr/organizations/les-organisations-presentes-dans-toute-la-france/index.html"
+to = "/fr/organismes/les-organismes-presentes-dans-toute-la-france/"
+
+[[redirects]]
+from = "/actualites/2024-03-29-dionisa/index.html"
+to = "/fr/temoignages/2024-03-19-dionisa/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-le-havre/index.html"
+to = "/fr/organismes/la-cimade-le-havre/"
+
+[[redirects]]
+from = "/fr/organisations/les-organisations-de-la-region-grand-est/index.html"
+to = "/fr/organismes/les-organismes-de-la-region-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/ccas-les-trois-ilets/index.html"
+to = "/fr/organismes/ccas-les-trois-ilets/"
+
+[[redirects]]
+from = "/fr/organismes/cimade-cayenne/index.html"
+to = "/fr/organismes/la-cimade-guyane-cayenne/"
+
+[[redirects]]
+from = "/temoignages/2024-03-20-syndie/index.html"
+to = "/fr/temoignages/2024-04-09-leah/"
+
+[[redirects]]
+from = "/fr/organizations/la-cimade-nice/index.html"
+to = "/fr/organismes/la-cimade-nice/"
+
+[[redirects]]
+from = "/fr/organismes/la-camille-denfert-rochereau/index.html"
+to = "/fr/organismes/la-cimade-denfert-rochereau/"
+
+[[redirects]]
+from = "/fr/organizations/alefpa/index.html"
+to = "/fr/organismes/alefpa/"
+
+[[redirects]]
+from = "/fr/organisations/la-cimade-lyon/index.html"
+to = "/fr/organismes/la-cimade-lyon/"
+
