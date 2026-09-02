@@ -43,6 +43,10 @@ from = "/fr/organisations/federation-des-acteurs-de-la-solidarite-bretagne/index
 to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bretagne/"
 
 [[redirects]]
+from = "/ht/2026/dionisamp3/index.html"
+to = "/ht/fichiers/2026/dionisamp3/"
+
+[[redirects]]
 from = "/temoignages/2024-03-19-dionisa/index.html"
 to = "/fr/temoignages/2024-03-19-dionisa/"
 
@@ -543,6 +547,10 @@ from = "/fr/organismes/ccas-vp-ville-de-paris/index.html"
 to = "/fr/organismes/ccas-v-p-ville-de-paris/"
 
 [[redirects]]
+from = "/es/2026/syndiemp3/index.html"
+to = "/es/fichiers/2026/syndiemp3/"
+
+[[redirects]]
 from = "/actualites/grand-est/index.html"
 to = "/fr/temoignages/grand-est/"
 
@@ -815,6 +823,10 @@ from = "/fr/organizations/la-cimade-paris/index.html"
 to = "/fr/organismes/la-cimade-paris-luxembourg/"
 
 [[redirects]]
+from = "/en/2026/brochure-ir-2024pdf/index.html"
+to = "/en/files/2026/brochure-ir-2024pdf/"
+
+[[redirects]]
 from = "/fr/organisations/ccas-paris-20eme-arrondissement/index.html"
 to = "/fr/organismes/ccas-paris-20eme-arrondissement/"
 
@@ -849,6 +861,10 @@ to = "/fr/organismes/la-cimade-plaisir/"
 [[redirects]]
 from = "/fr/organizations/les-organisations-de-bretagne/index.html"
 to = "/fr/organismes/les-organismes-de-bretagne/"
+
+[[redirects]]
+from = "/es/2026/brochure-ir-2024pdf/index.html"
+to = "/es/fichiers/2026/brochure-ir-2024pdf/"
 
 [[redirects]]
 from = "/fr/organisations/la-cimade-lens/index.html"
@@ -1075,6 +1091,10 @@ from = "/fr/organizations/ccas-lyon/index.html"
 to = "/fr/organismes/ccas-lyon/"
 
 [[redirects]]
+from = "/ht/2026/syndiemp3/index.html"
+to = "/ht/fichiers/2026/syndiemp3/"
+
+[[redirects]]
 from = "/fr/organizations/les-organisations-des-hauts-de-france/index.html"
 to = "/fr/organismes/les-organismes-des-hauts-de-france/"
 
@@ -1125,6 +1145,10 @@ to = "/fr/organismes/les-organismes-des-departements-et-regions-doutre-mer/"
 [[redirects]]
 from = "/organisations/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/index.html"
 to = "/fr/organismes/federation-des-acteurs-de-la-solidarite-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/es/2026/coleenmp3/index.html"
+to = "/es/fichiers/2026/coleenmp3/"
 
 [[redirects]]
 from = "/les-organisations-de-bretagne/index.html"
@@ -1767,6 +1791,10 @@ from = "/fr/organisations/ccas-nouvelle-caledonie/index.html"
 to = "/fr/organismes/ccas-nouvelle-caledonie/"
 
 [[redirects]]
+from = "/es/2026/dionisamp3/index.html"
+to = "/es/fichiers/2026/dionisamp3/"
+
+[[redirects]]
 from = "/fr/organisations/la-cimade-bordeaux/index.html"
 to = "/fr/organismes/la-cimade-bordeaux/"
 
@@ -1901,6 +1929,10 @@ to = "/fr/organismes/categories/auvergne-rhone-alpes/"
 [[redirects]]
 from = "/ht/olivia-simonet/index.html"
 to = "/ht/equipe/olivia-simonet/"
+
+[[redirects]]
+from = "/ht/2026/brochure-ir-2024pdf/index.html"
+to = "/ht/fichiers/2026/brochure-ir-2024pdf/"
 
 [[redirects]]
 from = "/ht/antoine-courcaud/index.html"
